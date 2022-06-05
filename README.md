@@ -3,14 +3,14 @@ I've been browsing the DevForum lately as there are many awesome resources that 
 
 | Table of Contents |
 |:----|
-| 1. [Resources](https://github.com/Loominagit/useful-roblox-resources#resources) |
+| 1. [Libraries](https://github.com/Loominagit/useful-roblox-resources#libraries) |
 | 2. [Tutorials](https://github.com/Loominagit/useful-roblox-resources#tutorials) |
 | 3. [Contributing](https://github.com/Loominagit/useful-roblox-resources#contributing) |
 
-## Resources
-> NOTE: Some of these resources has its own GitHub repository. **Be sure to read the license to know what you can do with the resource, or you'll ran into some serious issues!**
+## Libraries
+> NOTE: Some of these libraries has its own GitHub repository. **Be sure to read the license to know what you can do with it, or you'll ran into some serious issues!**
 
-| Resource | Developer | Description | Documentation | Notes |
+| Library | Developer | Description | Documentation | Notes |
 |:----|:----|:----|:----|:----|
 | [BetterChat](https://devforum.roblox.com/t/1756348) | [Jumpathy](https://devforum.roblox.com/u/Jumpathy) | An feature-rich chat system that supports rich text, message editing, and alot more! | [Docs](https://jumpathy.gitbook.io/betterchat-v3/) | If you don't like Roblox's default chat, use this one. I'd guarantee that you'll like it! |
 | dat.GUI ([DevForum thread](https://devforum.roblox.com/t/817209), [GitHub repo](https://github.com/nidorx/roblox-dat-gui)) | nidorx ([DevForum](https://devforum.roblox.com/u/nidor_x), [GitHub](https://github.com/nidorx)) | A lightweight GUI and controller library. | Documented on the thread, or [here](https://github.com/nidorx/roblox-dat-gui#api) | Useful if you want to make simple settings or something similar. If you only need sliders, checkboxes, use RbxGuiLib instead. |
@@ -32,7 +32,7 @@ I've been browsing the DevForum lately as there are many awesome resources that 
 Coming soon :)
 
 ## Contributing
-If you have some interesting resources and/or tutorials, put them here by:
+If you have some interesting libraries and/or tutorials, put them here by:
 1. [Forking](https://github.com/Loominagit/useful-roblox-resources/fork) this repo,
 2. Add thoses resources to the forked repo,
 3. Then submit a PR.
