@@ -28,6 +28,9 @@ I've been browsing the DevForum lately as there are many awesome resources that 
 - [How to use ProfileService + ReplicaService](https://devforum.roblox.com/t/1464984) by [notzeussz (ItzMeZeus_IGotHacked)](https://devforum.roblox.com/u/ItzMeZeus_IGotHacked)
   > I encourage you to read this one. It's really useful if you are developing big project that has inventory system or such.
 
+## Plugins
+Coming soon :)
+
 ## Contributing
 If you have some interesting resources and/or tutorials, put them here by:
 1. [Forking](https://github.com/Loominagit/useful-roblox-resources/fork) this repo,
