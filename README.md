@@ -1,5 +1,5 @@
 # Useful Roblox resources
-I've been browsing the DevForum lately as there are many awesome resources that I can use for my personal projects. I had a thought to share them here so you don't have to search those awesome resources by yourself (considering the DevForum is filled with trolls nowadays), and here it is. Make sure to credit them somewhere on your game (even if the developer didn't ask to) as an appreciation for making such amazing resources!
+I've been browsing the DevForum lately as there are many awesome resources that I can use for my personal projects. I had a thought to share them here so you don't have to search those awesome resources by yourself (considering the DevForum is filled with trolls nowadays), and here it is. Make sure to credit the creator of the library that you're using somewhere on your game (even if the creator didn't ask to) as an appreciation for making such amazing resources!
 
 | Table of Contents |
 |:----|
@@ -10,7 +10,7 @@ I've been browsing the DevForum lately as there are many awesome resources that 
 ## Libraries
 > NOTE: Some of these libraries has its own GitHub repository. **Be sure to read the license to know what you can do with it, or you'll ran into some serious issues!**
 
-| Library | Developer | Description | Documentation | Notes |
+| Library | Creator | Description | Documentation | Notes |
 |:----|:----|:----|:----|:----|
 | [BetterChat](https://devforum.roblox.com/t/1756348) | [Jumpathy](https://devforum.roblox.com/u/Jumpathy) | An feature-rich chat system that supports rich text, message editing, and alot more! | [Docs](https://jumpathy.gitbook.io/betterchat-v3/) | If you don't like Roblox's default chat, use this one. I guarantee that you'll like it! |
 | dat.GUI ([DevForum thread](https://devforum.roblox.com/t/817209), [GitHub repo](https://github.com/nidorx/roblox-dat-gui)) | nidorx ([DevForum](https://devforum.roblox.com/u/nidor_x), [GitHub](https://github.com/nidorx)) | A lightweight GUI and controller library. | Documented on the thread, or [here](https://github.com/nidorx/roblox-dat-gui#api) | Useful if you want to make simple settings or something similar. If you only need sliders, checkboxes, use RbxGuiLib instead. |
@@ -36,6 +36,9 @@ If you have some interesting resources, put them here by:
 1. [Forking](https://github.com/Loominagit/useful-roblox-resources/fork) this repo,
 2. Add those resources to your recently forked repo,
 3. Then submit a Pull Request.
+
+> Apologize if there are bad grammars at this readme, as English is not my native language! :)
+> Thanks for reading though!
 
 ### Foot notes
 [^1]: According to [this DevForum post](https://devforum.roblox.com/t//846799), session locking is a solution to dealing with the race condition between loading and saving data with DataStore API calls, when for instance, loading data is faster than the data being saved in a time frame despite saving data being first.
