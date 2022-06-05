@@ -1,5 +1,5 @@
 # Useful Roblox resources
-I've been browsing the DevForum lately as there are many awesome resources that I can use for my personal projects. I had a thought that I can share them here so you don't have to search those awesome resources by yourself (considering the DevForum is filled with trolls nowadays). Make sure to credit them somewhere on your game (even if the developer didn't ask to) as an appreciation for making such amazing resources!
+I've been browsing the DevForum lately as there are many awesome resources that I can use for my personal projects. I had a thought to share them here so you don't have to search those awesome resources by yourself (considering the DevForum is filled with trolls nowadays), and here it is. Make sure to credit them somewhere on your game (even if the developer didn't ask to) as an appreciation for making such amazing resources!
 
 | Table of Contents |
 |:----|
