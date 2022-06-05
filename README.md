@@ -32,10 +32,10 @@ I've been browsing the DevForum lately as there are many awesome resources that 
 Coming soon :)
 
 ## Contributing
-If you have some interesting libraries and/or tutorials, put them here by:
+If you have some interesting resources, put them here by:
 1. [Forking](https://github.com/Loominagit/useful-roblox-resources/fork) this repo,
-2. Add thoses resources to the forked repo,
-3. Then submit a PR.
+2. Add those resources to your recently forked repo,
+3. Then submit a Pull Request.
 
 ### Foot notes
 [^1]: According to [this DevForum post](https://devforum.roblox.com/t//846799), session locking is a solution to dealing with the race condition between loading and saving data with DataStore API calls, when for instance, loading data is faster than the data being saved in a time frame despite saving data being first.
