@@ -5,8 +5,9 @@ I've been browsing the DevForum lately as there are many awesome resources that 
 |:----|
 | 1. [Libraries](#libraries) |
 | 2. [Plugins](#plugins) |
-| 3. [Tutorials](#tutorials) |
-| 4. [Contributing](#contributing) |
+| 3. [Building Plugins](#building-plugins) |
+| 4. [Tutorials](#tutorials) |
+| 5. [Contributing](#contributing) |
 
 ## Libraries
 
