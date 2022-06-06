@@ -3,11 +3,13 @@ I've been browsing the DevForum lately as there are many awesome resources that 
 
 | Table of Contents |
 |:----|
-| 1. [Libraries](https://github.com/Loominagit/useful-roblox-resources#libraries) |
-| 2. [Tutorials](https://github.com/Loominagit/useful-roblox-resources#tutorials) |
-| 3. [Contributing](https://github.com/Loominagit/useful-roblox-resources#contributing) |
+| 1. [Libraries](#libraries) |
+| 2. [Plugins](#plugins) |
+| 3. [Tutorials](#tutorials) |
+| 4. [Contributing](#contributing) |
 
 ## Libraries
+
 > NOTE: Some of these libraries has its own GitHub repository. **Be sure to read the license to know what you can do with it, or you'll ran into some serious issues!**
 
 | Library | Creator | Description | Documentation | Notes |
@@ -27,21 +29,34 @@ I've been browsing the DevForum lately as there are many awesome resources that 
 | ZonePlus ([DevForum thread](https://devforum.roblox.com/t/1017701), [GitHub repo](https://github.com/1ForeverHD/ZonePlus)) | ForeverHD ([DevForum](https://devforum.roblox.com/u/ForeverHD), [GitHub](https://github.com/1ForeverHD)) | ZonePlus utilises the new [Spatial Query API](https://devforum.roblox.com/t/introducing-overlapparams-new-spatial-query-api/1435720) and whitelists to effectively determine players, parts and custom items within a zone. | [Docs](https://1foreverhd.github.io/ZonePlus/) | Read the [example](https://1foreverhd.github.io/ZonePlus/examples/) to get the idea of ZonePlus. |
 | Nexus VR Character Model ([DevForum thread](https://devforum.roblox.com/t/109055), [GitHub repo](https://github.com/TheNexusAvenger/Nexus-VR-Character-Model/)) | TheNexusAvenger ([DevForum](https://devforum.roblox.com/u/TheNexusAvenger), [GitHub](https://github.com/TheNexusAvenger)) | An open-source VR system for allowing players to play as their Roblox character in first-person.  | - | If you want your game to be VR-compatible, use this. [Many VR games uses this library.](https://sites.google.com/view/robloxvr/home) |
 
-## Tutorials
-- [How to use ProfileService + ReplicaService](https://devforum.roblox.com/t/1464984) by [notzeussz (ItzMeZeus_IGotHacked)](https://devforum.roblox.com/u/ItzMeZeus_IGotHacked)
-  > I encourage you to read this one. It's really useful if you are developing big project that has inventory system or such.
-- [Saving player data to MongoDB Atlas in the cloud.](https://devforum.roblox.com/t/632977)
-  > If you don't want to use DataStore as your saving method, you can read this tutorial. Since it's saved to MongoDB, you can use those data for other purposes too! For example: making a Discord bot dedicated for your game. Do note that if you have a large game, the costs of MongoDB might increase.
-
 ## Plugins
+
 | Plugin | Creator | Description | Price⠀⠀ | Notes |
 |:----|:----|:----|:----|:----|
 | [InCommand](https://devforum.roblox.com/t/558996) | boatbomber ([DevForum](https://devforum.roblox.com/u/boatbomber), [GitHub](https://github.com/boatbomber)), Elttob ([DevForum](https://devforum.roblox.com/u/elttob), [GitHub](https://github.com/elttob)) | Versatile, adaptable command bar replacement, designed with power users in mind. | ![](/assets/robux_small.png) 125 | - |
 | [Atmos](https://devforum.roblox.com/t/443339) | Elttob ([DevForum](https://devforum.roblox.com/u/elttob), [GitHub](https://github.com/elttob)) | Provides you professional skyboxes and lighting that you can use in your game. | ![](/assets/robux_small.png) 150 | - |
 | [Reclass](https://devforum.roblox.com/t/402382) | Elttob ([DevForum](https://devforum.roblox.com/u/elttob), [GitHub](https://github.com/elttob)) | Easily convert your Instance into different class without a hassle. | Free! | I'd recommend you to check this one, it's really useful and free! |
+| [Tool Grip Editor](https://www.roblox.com/library/174577307/Tool-Grip-Editor) | MaximumADHD ([DevForum](https://devforum.roblox.com/u/CloneTrooper1019), [GitHub](https://github.com/MaximumADHD)) | A plugin which makes it much easier to edit the grip of a Tool! | ![](/assets/robux_small.png) 5 | Although you can [build the plugin](https://github.com/MaximumADHD/Roblox-Plugins/tree/main/ToolGripEditor) for free, please consider buying the plugin to show some support to the creator! |
+| [AutoScale](https://devforum.roblox.com/t/217704) | ZacBytes ([DevForum](https://devforum.roblox.com/u/ZacBytes), [GitHub](https://github.com/ZacBytes)) | This plugin can convert a UI element’s size/position to Scale or Offset, and it has auto scaling feature. | Free! | There is a pro version of this plugin that you can also check it out [here](https://devforum.roblox.com/t/601773). |
+| [Magic Wand Selection Tool](https://devforum.roblox.com/t/1660109) | [tyridge77](https://devforum.roblox.com/u/tyridge77) | A magic wand selection tool that works similarly to magic wand selection tools in photo editors, since we can perform faster collision/intersection queries now. | Free! | - |
+| [DataStore Editor](https://devforum.roblox.com/t/716915) | sleitnick ([DevForum](https://devforum.roblox.com/u/sleitnick), [GitHub](https://github.com/sleitnick)) | This plugin lets you view and edit data in Roblox DataStores (normal and ordered). Numbers, strings, tables, etc. | ![](/assets/robux_small.png) 200 | Altought the price is a WHOPPING 200 ROBUX, this plugin is worth the price! |
+| [Free DataStore Editor](https://devforum.roblox.com/t/894063) | Xsticcy ([DevForum](https://devforum.roblox.com/u/Xsticcy), [GitHub](https://github.com/xsticcydev)) | A free alternative to sleitnick's DataStore Editor for those who can't afford it! | Free! | Honestly this plugin isn't that bad at all, but sleitnick's DataStore Editor is still better than this imo. |
+| [RigEdit](https://devforum.roblox.com/t/70840) | [Arch_Mage](https://devforum.roblox.com/u/Arch_Mage) | Well, a rig editor... | Free! | If you want more features such as weld editing, I'd suggest you to [buy the premium version](https://www.roblox.com/library/4486409103/RigEdit-Plus). |
+| [ThreeDText2](https://devforum.roblox.com/t/290144) | [XAXA](https://devforum.roblox.com/u/XAXA) | Create 3D text with mesh parts | Free! | - |
+| [Interface Tools](https://devforum.roblox.com/t/404423) | [fivefactor](https://devforum.roblox.com/u/fivefactor) | The plugin helps expedite user interface design by providing easy access to hundreds of icons, patterns, gradients, and button styles. | Free! | - |
+| [Archimedes 3](https://devforum.roblox.com/t/1610366) | [Scriptos](https://devforum.roblox.com/u/Scriptos) | A Roblox building plugin that allows users to easily create smooth arcs. | Free! | *"If you’re capable of using something like Blender, then It’s HIGHLY recommended to use that instead. Archimedes is not a magic solution to creating “bendy” parts - excessive use can lead to high part count, which is undesirable for performance reasons."*<br/>- Scriptos |
 
+## Tutorials
+
+- [How to use ProfileService + ReplicaService](https://devforum.roblox.com/t/1464984)
+  > I encourage you to read this one. It's really useful if you are developing big project that has inventory system or such.
+- [Saving player data to MongoDB Atlas in the cloud.](https://devforum.roblox.com/t/632977)
+  > If you don't want to use DataStore as your saving method, you can read this tutorial. Since it's saved to MongoDB, you can use those data for other purposes too! For example: making a Discord bot dedicated for your game. Do note that if you have a large game, the costs of MongoDB might increase.
+- [How to export Roblox rig to Blender, and import animation from Blender to Roblox](https://devforum.roblox.com/t/34729)
+- 
 
 ## Contributing
+
 If you have some interesting resources, put them here by:
 1. [Forking](https://github.com/Loominagit/useful-roblox-resources/fork) this repo,
 2. Add those resources to your recently forked repo,
@@ -50,5 +65,6 @@ If you have some interesting resources, put them here by:
 > Apologize if there are bad grammars at this readme, as English is not my native language! :) <br/> Thanks for reading, though!
 
 ### Foot notes
+
 [^1]: According to [this DevForum post](https://devforum.roblox.com/t//846799), session locking is a solution to dealing with the race condition between loading and saving data with DataStore API calls, when for instance, loading data is faster than the data being saved in a time frame despite saving data being first.
 [^2]: Explained by the man himself (loleris): Assume that a [state](https://en.wikipedia.org/wiki/State_(computer_science)) is any kind of data that has a present version and may also change at any time in the future, as many times as necessary. The data about a player which you load up during gameplay or save to the DataStore is a state. The color of a part, text shown on a users screen and furniture placed in a player owned house are all states - ReplicaService helps you make server-side code to control and replicate any state to all clients at once or only a select few.
