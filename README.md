@@ -30,6 +30,8 @@ I've been browsing the DevForum lately as there are many awesome resources that 
 ## Tutorials
 - [How to use ProfileService + ReplicaService](https://devforum.roblox.com/t/1464984) by [notzeussz (ItzMeZeus_IGotHacked)](https://devforum.roblox.com/u/ItzMeZeus_IGotHacked)
   > I encourage you to read this one. It's really useful if you are developing big project that has inventory system or such.
+- [Saving player data to MongoDB Atlas in the cloud.](https://devforum.roblox.com/t/632977)
+  > If you don't want to use DataStore as your saving method, you can read this tutorial. Since it's saved to MongoDB, you can use those data for other purposes too! For example: making a Discord bot dedicated for your game. Do note that if you have a large game, the costs of MongoDB might increase.
 
 ## Plugins
 | Plugin | Creator | Description | Price⠀⠀ | Notes |
