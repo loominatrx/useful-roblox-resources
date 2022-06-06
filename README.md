@@ -12,7 +12,7 @@ I've been browsing the DevForum lately as there are many awesome resources that 
 
 | Library | Creator | Description | Documentation | Notes |
 |:----|:----|:----|:----|:----|
-| [BetterChat](https://devforum.roblox.com/t/1756348) | [Jumpathy](https://devforum.roblox.com/u/Jumpathy) | An feature-rich chat system that supports rich text, message editing, and alot more! | [Docs](https://jumpathy.gitbook.io/betterchat-v3/) | If you don't like Roblox's default chat, use this one. I guarantee that you'll like it! |
+| [BetterChat](https://devforum.roblox.com/t/1756348) | [Jumpathy](https://devforum.roblox.com/u/Jumpathy) | A feature-rich chat system that supports rich text, message editing, and alot more! | [Docs](https://jumpathy.gitbook.io/betterchat-v3/) | If you don't like Roblox's default chat, use this one. I guarantee that you'll like it! |
 | dat.GUI ([DevForum thread](https://devforum.roblox.com/t/817209), [GitHub repo](https://github.com/nidorx/roblox-dat-gui)) | nidorx ([DevForum](https://devforum.roblox.com/u/nidor_x), [GitHub](https://github.com/nidorx)) | A lightweight GUI and controller library. | Documented on the thread, or [here](https://github.com/nidorx/roblox-dat-gui#api) | Useful if you want to make simple settings or something similar. If you only need sliders, checkboxes, use RbxGuiLib instead. |
 | RbxGuiLib ([DevForum thread](https://devforum.roblox.com/t/719287), [GitHub repo](https://github.com/EgoMoose/Rbx-Gui-Library)) | EgoMoose ([DevForum](https://devforum.roblox.com/u/EgoMoose), [GitHub](https://github.com/EgoMoose)) | Another GUI library that you can use to make few common GUI components (like slider bars, checkboxes, you name it) that didn't present in Roblox created by the legend himself! | Documented on the source code itself | - |
 | ColourUtils ([DevForum thread](https://devforum.roblox.com/t/1406675), [Github repo](https://github.com/csqrl/colour-utils)) | csqrl ([DevForum](https://devforum.roblox.com/u/csqrl), [GitHub](https://github.com/csqrl)) | A color manipulation module. If you like messing with colors, you came to the right place. | [Docs](https://csqrl.github.io/colour-utils) | - |
@@ -24,15 +24,19 @@ I've been browsing the DevForum lately as there are many awesome resources that 
 | [RoRender](https://devforum.roblox.com/t/minimap-render-rorenderv2/965827/) | reteach ([DevForum](https://devforum.roblox.com/u/reteach), [GitHub](https://github.com/AJSteinhauser)) | Minimap renderer. | Documented on the thread | Might be very demanding depending on how big & detailed your map is, and how powerful your PC is. Use with caution. |
 | [berezaa's MoneyLib module](https://github.com/berezaa/minershaven/blob/master/src/ReplicatedStorage/MoneyLib.lua) | berezaa ([DevForum](https://devforum.roblox.com/u/berezaa), [GitHub](https://github.com/berezaa)) | A simple module to convert numbers to readable ones. It's the one that [Miner's Haven](https://www.roblox.com/games/258258996/Miners-Haven) uses. | - | - |
 | [t-util](https://github.com/Loominagit/t-util) | Myself | Adds some additional `table` methods that you can use for manipulting tables, such as filtering, deep copy, merge, etc. Compatible with both Lua and Luau. | [Docs](https://github.com/Loominagit/t-util/wiki/Methods) | - |
-
-
+| ZonePlus ([DevForum thread](https://devforum.roblox.com/t/1017701), [GitHub repo](https://github.com/1ForeverHD/ZonePlus)) | ForeverHD ([DevForum](https://devforum.roblox.com/u/ForeverHD), [GitHub](https://github.com/1ForeverHD)) | ZonePlus utilises the new [Spatial Query API](https://devforum.roblox.com/t/introducing-overlapparams-new-spatial-query-api/1435720) and whitelists to effectively determine players, parts and custom items within a zone. | [Docs](https://1foreverhd.github.io/ZonePlus/) | Read the [example](https://1foreverhd.github.io/ZonePlus/examples/) to get the idea of ZonePlus. |
 
 ## Tutorials
 - [How to use ProfileService + ReplicaService](https://devforum.roblox.com/t/1464984) by [notzeussz (ItzMeZeus_IGotHacked)](https://devforum.roblox.com/u/ItzMeZeus_IGotHacked)
   > I encourage you to read this one. It's really useful if you are developing big project that has inventory system or such.
 
 ## Plugins
-Coming soon :)
+| Plugin | Creator | Description | Price | Notes |
+|:----|:----|:----|:----|:----|
+| [InCommand](https://devforum.roblox.com/t/558996) | boatbomber ([DevForum](https://devforum.roblox.com/u/boatbomber), [GitHub](https://github.com/boatbomber)), Elttob ([DevForum](https://devforum.roblox.com/u/elttob), [GitHub](https://github.com/elttob)) | Versatile, adaptable command bar replacement, designed with power users in mind. | R$125 | - |
+| [Atmos](https://devforum.roblox.com/t/443339) | Elttob ([DevForum](https://devforum.roblox.com/u/elttob), [GitHub](https://github.com/elttob)) | Provides you professional skyboxes and lighting that you can use in your game. | R$150 | - |
+| [Reclass](https://devforum.roblox.com/t/402382) | Elttob ([DevForum](https://devforum.roblox.com/u/elttob), [GitHub](https://github.com/elttob)) | Easily convert your Instance into different class without a hassle. | Free! | I'd recommend you to check this one, it's really useful and free! |
+
 
 ## Contributing
 If you have some interesting resources, put them here by:
