@@ -32,10 +32,10 @@ I've been browsing the DevForum lately as there are many awesome resources that 
   > I encourage you to read this one. It's really useful if you are developing big project that has inventory system or such.
 
 ## Plugins
-| Plugin | Creator | Description | Price | Notes |
+| Plugin | Creator | Description | Price⠀⠀ | Notes |
 |:----|:----|:----|:----|:----|
-| [InCommand](https://devforum.roblox.com/t/558996) | boatbomber ([DevForum](https://devforum.roblox.com/u/boatbomber), [GitHub](https://github.com/boatbomber)), Elttob ([DevForum](https://devforum.roblox.com/u/elttob), [GitHub](https://github.com/elttob)) | Versatile, adaptable command bar replacement, designed with power users in mind. | R$125 | - |
-| [Atmos](https://devforum.roblox.com/t/443339) | Elttob ([DevForum](https://devforum.roblox.com/u/elttob), [GitHub](https://github.com/elttob)) | Provides you professional skyboxes and lighting that you can use in your game. | R$150 | - |
+| [InCommand](https://devforum.roblox.com/t/558996) | boatbomber ([DevForum](https://devforum.roblox.com/u/boatbomber), [GitHub](https://github.com/boatbomber)), Elttob ([DevForum](https://devforum.roblox.com/u/elttob), [GitHub](https://github.com/elttob)) | Versatile, adaptable command bar replacement, designed with power users in mind. | ![](/assets/robux_small.png) 125 | - |
+| [Atmos](https://devforum.roblox.com/t/443339) | Elttob ([DevForum](https://devforum.roblox.com/u/elttob), [GitHub](https://github.com/elttob)) | Provides you professional skyboxes and lighting that you can use in your game. | ![](/assets/robux_small.png) 150 | - |
 | [Reclass](https://devforum.roblox.com/t/402382) | Elttob ([DevForum](https://devforum.roblox.com/u/elttob), [GitHub](https://github.com/elttob)) | Easily convert your Instance into different class without a hassle. | Free! | I'd recommend you to check this one, it's really useful and free! |
 
 
