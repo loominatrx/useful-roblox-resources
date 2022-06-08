@@ -1,12 +1,13 @@
 # Useful Roblox resources
 I've been browsing the DevForum lately as there are many awesome resources that I can use for my personal projects. I had a thought to share them here so you don't have to search those awesome resources by yourself (considering the DevForum is filled with trolls nowadays), and here it is. Make sure to credit the creator of the library that you're using somewhere on your game (even if the creator didn't ask to) as an appreciation for making such amazing resources!
 
-# Table of Contents
-1. [Libraries](#libraries)
-2. [Plugins](#plugins)
-3. [Building Plugins](#building-plugins)
-4. [Tutorials](#tutorials)
-5. [Contributing](#contributing)
+Table of Contents
+- [Libraries](#libraries)
+- [Plugins](#plugins)
+  - [Utility Plugins](#utility-plugins)
+  - [Building Plugins](#building-plugins)
+- [Tutorials](#tutorials)
+- [Contributing](#contributing)
 
 
 
@@ -33,6 +34,8 @@ I've been browsing the DevForum lately as there are many awesome resources that 
 
 ## Plugins
 
+### Utility Plugins
+
 | Plugin | Creator | Description | Price⠀⠀ | Notes |
 |:----|:----|:----|:----|:----|
 | [Atmos](https://devforum.roblox.com/t/443339) | Elttob ([DevForum](https://devforum.roblox.com/u/elttob), [GitHub](https://github.com/elttob)) | Provides you professional skyboxes and lighting that you can use in your game. | ![](/assets/robux_small.png) 150 | - |
@@ -45,7 +48,7 @@ I've been browsing the DevForum lately as there are many awesome resources that 
 | [RoRender](https://devforum.roblox.com/t/minimap-render-rorenderv2/965827/) | reteach ([DevForum](https://devforum.roblox.com/u/reteach), [GitHub](https://github.com/AJSteinhauser)) | Minimap renderer. | Free! | Might be very demanding depending on how big & detailed your map is, and how powerful your PC is. Use with caution. |
 | [Interface Tools](https://devforum.roblox.com/t/404423) | [fivefactor](https://devforum.roblox.com/u/fivefactor) | The plugin helps expedite user interface design by providing easy access to hundreds of icons, patterns, gradients, and button styles. | Free! | - |
 
-## Building Plugins
+### Building Plugins
 
 I decided to make dedicated building plugins section as there are many building plugins that existed on Roblox marketplace and also to prevent confusion.
 
