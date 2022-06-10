@@ -34,6 +34,7 @@ _Also, I expect you to have some knowledge about scripting and/or Roblox Studio 
 | Nexus VR Character Model ([DevForum thread](https://devforum.roblox.com/t/109055), [GitHub repo](https://github.com/TheNexusAvenger/Nexus-VR-Character-Model/)) | TheNexusAvenger ([DevForum](https://devforum.roblox.com/u/TheNexusAvenger), [GitHub](https://github.com/TheNexusAvenger)) | An open-source VR system for allowing players to play as their Roblox character in first-person.  | - | If you want your game to be VR-compatible, use this. [Many VR games uses this library.](https://sites.google.com/view/robloxvr/home) |
 | [HintService](https://devforum.roblox.com/t/1820801/) | [maddjames28](https://devforum.roblox.com/u/maddjames28) | A simple way to display hints. It can be useful in games with announcements, or it can be useful just for telling the player or tip or giving them a hint. | - | - |
 | [Ragdoll Module](https://devforum.roblox.com/t/1747109) | [kalabgs](https://devforum.roblox.com/u/kalabgs) | A ragdoll module that works on every character rig (I hope...) | - | - |
+| [Notification Cards](https://devforum.roblox.com/t/topic/1448950) | [Plasmanode](https://devforum.roblox.com/u/plasma_node) | A easy-to-use notification card with decent UI. | Documented on the thread | A really good replacement for Roblox's built-in notification system |
 
 
 ## Plugins
