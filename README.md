@@ -66,6 +66,9 @@ I decided to make dedicated building plugins section as there are many building 
 | [Archimedes 3](https://devforum.roblox.com/t/1610366) | [Scriptos](https://devforum.roblox.com/u/Scriptos) | A Roblox building plugin that allows users to easily create smooth arcs. | Free! | *"If you’re capable of using something like Blender, then It’s HIGHLY recommended to use that instead. Archimedes is not a magic solution to creating “bendy” parts. Excessive use can lead to high part count, which is undesirable for performance reasons."*<br/>- Scriptos |
 | [Building Tools by F3X](https://www.roblox.com/library/144950355/) | [GigsD4X](https://www.roblox.com/users/484140/profile/) | A set of wonderfully simple and powerful in-game building tools, designed and built by the F3X team. | Free! | Definetly recommend you to use this plugin due to the features that it has to offer. |
 
+## Honorable Mentions
+- https://www.kenney.nl/assets - A list of REALLY USEFUL resources (sound effects, low poly models, etc.)
+
 ## Tutorials
 
 - [How to use ProfileService + ReplicaService](https://devforum.roblox.com/t/1464984)
