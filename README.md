@@ -71,7 +71,7 @@ I decided to make dedicated building plugins section as there are many building 
 ## Tools
 | Tool | Creator | Description |
 |:----|:----|:----|
-| OpenCloudTools ( [DevForum thread](https://devforum.roblox.com/t/1818516), [GitHub repo](https://github.com/jlwitthuhn/OpenCloudTools/releases)) | Skrateboard ([DevForum](https://devforum.roblox.com/u/Skrateboard), [GitHub](https://github.com/jlwitthuhn)) | A desktop application for Windows and MacOS that allows you to interact with Roblox’s Open Cloud API, currently focusing on the Datastore and MessagingService APIs. | 
+| OpenCloudTools ( [DevForum thread](https://devforum.roblox.com/t/1818516), [GitHub repo](https://github.com/jlwitthuhn/OpenCloudTools/)) | Skrateboard ([DevForum](https://devforum.roblox.com/u/Skrateboard), [GitHub](https://github.com/jlwitthuhn)) | A desktop application for Windows and MacOS that allows you to interact with Roblox’s Open Cloud API, currently focusing on the Datastore and MessagingService APIs. | 
 
 ## Honorable Mentions
 
@@ -92,10 +92,7 @@ I decided to make dedicated building plugins section as there are many building 
 
 ## Contributing
 
-If you have some interesting resources, put them here by:
-1. [Forking](https://github.com/Loominagit/useful-roblox-resources/fork) this repo,
-2. Add those resources to your recently forked repo,
-3. Then submit a Pull Request.
+You are welcome to contribute to this repository to make changes, or add some interesting resources! Sharing is caring :D
 
 > Apologize if there are bad grammars at this readme, as English is not my native language! :) <br/> Thanks for reading, though!
 
