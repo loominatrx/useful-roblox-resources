@@ -8,7 +8,7 @@ _Also, I expect you to have some knowledge about scripting and/or Roblox Studio 
 - [Plugins](#plugins)
   - [Utility Plugins](#utility-plugins)
   - [Building Plugins](#building-plugins)
-- [Tools](#tools)
+- [Community Tools](#community-tools)
 - [Honorable Mentions](#honorable-mentions)
 - [Tutorials](#tutorials)
 - [Contributing](#contributing)
@@ -68,14 +68,15 @@ I decided to make dedicated building plugins section as there are many building 
 | [Archimedes 3](https://devforum.roblox.com/t/1610366) | [Scriptos](https://devforum.roblox.com/u/Scriptos) | A Roblox building plugin that allows users to easily create smooth arcs. | Free! | *"If you’re capable of using something like Blender, then It’s HIGHLY recommended to use that instead. Archimedes is not a magic solution to creating “bendy” parts. Excessive use can lead to high part count, which is undesirable for performance reasons."*<br/>- Scriptos |
 | [Building Tools by F3X](https://www.roblox.com/library/144950355/) | [GigsD4X](https://www.roblox.com/users/484140/profile/) | A set of wonderfully simple and powerful in-game building tools, designed and built by the F3X team. | Free! | Definetly recommend you to use this plugin due to the features that it has to offer. |
 
-## Tools
+## Community Tools
 | Tool | Creator | Description |
 |:----|:----|:----|
-| OpenCloudTools ( [DevForum thread](https://devforum.roblox.com/t/1818516), [GitHub repo](https://github.com/jlwitthuhn/OpenCloudTools/)) | Skrateboard ([DevForum](https://devforum.roblox.com/u/Skrateboard), [GitHub](https://github.com/jlwitthuhn)) | A desktop application for Windows and MacOS that allows you to interact with Roblox’s Open Cloud API, currently focusing on the Datastore and MessagingService APIs. | 
+| OpenCloudTools ( [DevForum thread](https://devforum.roblox.com/t/1818516), [GitHub repo](https://github.com/jlwitthuhn/OpenCloudTools/)) | Skrateboard ([DevForum](https://devforum.roblox.com/u/Skrateboard), [GitHub](https://github.com/jlwitthuhn)) | A desktop application for Windows and MacOS (Linux is not supported, unfortunately) that allows you to interact with Roblox’s Open Cloud API. | 
 
 ## Honorable Mentions
 
 - https://www.kenney.nl/assets - A list of REALLY USEFUL resources (sound effects, low poly models, etc.)
+- [Figma](https://figma.com) - A collaborative UI designing tool. Think it as Adobe XD or Illustrator, but it's free.
 
 ## Tutorials
 
@@ -92,7 +93,7 @@ I decided to make dedicated building plugins section as there are many building 
 
 ## Contributing
 
-You are welcome to contribute to this repository to make changes, or add some interesting resources! Sharing is caring :D
+You are welcome to contribute to this repository to make changes and/or add some interesting resources! Sharing is caring :D
 
 > Apologize if there are bad grammars at this readme, as English is not my native language! :) <br/> Thanks for reading, though!
 
