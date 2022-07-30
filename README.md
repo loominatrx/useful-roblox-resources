@@ -71,7 +71,8 @@ I decided to make dedicated building plugins section as there are many building 
 ## Community Tools
 | Tool | Creator | Description |
 |:----|:----|:----|
-| OpenCloudTools ( [DevForum thread](https://devforum.roblox.com/t/1818516), [GitHub repo](https://github.com/jlwitthuhn/OpenCloudTools/)) | Skrateboard ([DevForum](https://devforum.roblox.com/u/Skrateboard), [GitHub](https://github.com/jlwitthuhn)) | A desktop application for Windows and MacOS (Linux is not supported, unfortunately) that allows you to interact with Roblox’s Open Cloud API. | 
+| OpenCloudTools ([DevForum thread](https://devforum.roblox.com/t/1818516), [GitHub repo](https://github.com/jlwitthuhn/OpenCloudTools/)) | Skrateboard ([DevForum](https://devforum.roblox.com/u/Skrateboard), [GitHub](https://github.com/jlwitthuhn)) | A desktop application for Windows and MacOS (Linux is not supported, unfortunately) that allows you to interact with Roblox’s Open Cloud API. |
+| PixelFix ([DevForum thread](https://devforum.roblox.com/t/pixelfix-remove-the-black-edges-on-scaled-images/201802), [GitHub repo](https://github.com/Corecii/Transparent-Pixel-Fix))| Corecii ([DevForum](https://devforum.roblox.com/u/Corecii), [GitHub](https://github.com/Corecii)) | Remove the black edges on scaled images, very useful if your images (especially icons) has black edges after uploading it on Roblox. |
 
 ## Honorable Mentions
 
