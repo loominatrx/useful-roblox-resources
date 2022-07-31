@@ -84,10 +84,21 @@ A list of resources that doesn't fit anywhere.
 - [Figma](https://figma.com) - A collaborative UI designing tool. Think it as Adobe XD or Illustrator, but it's free.
 - [Fluent Icons Explorer](https://fluenticons.co) - Lists of Microsoft's open source icons. Please credit them if you are using them in your game, as this is required to comply with [their repo license](https://github.com/microsoft/fluentui-system-icons/blob/master/LICENSE).
 - [Material Design Icons](https://fonts.google.com/icons) - Lists of Google's open source icons. Please credit them if you are using them in your game, as this is required to comply with [their repo license](https://github.com/google/material-design-icons/blob/master/LICENSE).
+- [ZapSplat](https://zapsplat.com) - This website contains WHOPPING 63.000 sounds that you can use for your games. By using their sound effects, **[you agree with their license](https://www.zapsplat.com/license-type/standard-license/)**.
 
 ## Tutorials
 
-_I expect you to have some knowledge about scripting and/or Roblox Studio in general, because some of the tutorials can be complicated. I can't really help you if you have some issues with them because I don't make those tutorials._
+Here you can find list of good tutoials, handpicked by me.
+
+### Beginner Tutorials
+
+- [Learn Roblox Studio](https://developer.roblox.com/en-us/onboarding) - Official Roblox Studio guide made for beginners who are new to Roblox Studio.
+- [All Studio Tutorials](https://developer.roblox.com/en-us/learn-roblox/all-tutorials) - Lists of all Roblox Studio tutorials made by Roblox themselves.
+- 
+
+### Advanced Tutorials
+
+_I expect you to have some knowledge about scripting and/or Roblox Studio in general, because some of these tutorials can be complicated. I can't really help you if you have some issues with them because I don't make those tutorials._
 
 - [How to use ProfileService + ReplicaService](https://devforum.roblox.com/t/1464984)
   > I encourage you to read this one. It's really useful if you are developing big project that has inventory system or such.
