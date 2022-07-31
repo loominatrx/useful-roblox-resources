@@ -11,6 +11,8 @@ If you're still skeptical about this list, this list contains **safe resources**
 - [Community Tools](#community-tools)
 - [Honorable Mentions](#honorable-mentions)
 - [Tutorials](#tutorials)
+  - [Beginner Tutorials](#beginner-tutorials)
+  - [Advanced Tutorials](#advanced-tutorials)
 - [Contributing](#contributing)
 
 
@@ -92,9 +94,16 @@ Here you can find list of good tutoials, handpicked by me.
 
 ### Beginner Tutorials
 
-- [Learn Roblox Studio](https://developer.roblox.com/en-us/onboarding) - Official Roblox Studio guide made for beginners who are new to Roblox Studio.
-- [All Studio Tutorials](https://developer.roblox.com/en-us/learn-roblox/all-tutorials) - Lists of all Roblox Studio tutorials made by Roblox themselves.
-- 
+Here's the list of tutorials made for beginners.
+
+- [Learn Roblox Studio](https://developer.roblox.com/en-us/onboarding) 
+  > Official Roblox Studio guide made for beginners who are new to Roblox Studio.
+- [All Roblox Studio Tutorials](https://developer.roblox.com/en-us/learn-roblox/all-tutorials)
+  > Lists of all Roblox Studio tutorials made by Roblox themselves.
+- [The Ultimate UI Design Guide](https://devforum.roblox.com/t/the-ultimate-ui-design-guide/1236916) 
+  > As the link said, _the ultimate UI design guide..._
+- [TheDevKing's Beginner Roblox Scripting Tutorial](https://www.youtube.com/watch?v=BkYwRdCukZA&list=PLhieaQmOk7nIfMZ1UmvKGPrwuwQVwAvFa)
+  > Good Roblox Studio tutorial for beginners on YouTube.
 
 ### Advanced Tutorials
 
@@ -103,7 +112,7 @@ _I expect you to have some knowledge about scripting and/or Roblox Studio in gen
 - [How to use ProfileService + ReplicaService](https://devforum.roblox.com/t/1464984)
   > I encourage you to read this one. It's really useful if you are developing big project that has inventory system or such.
 - [Saving player data to MongoDB Atlas in the cloud.](https://devforum.roblox.com/t/632977)
-  > If you don't want to use DataStore as your saving method, you can read this tutorial. Since it's saved to MongoDB, you can use those data for other purposes too! For example: making a Discord bot dedicated for your game. Do note that if you have a large game, the costs of your MongoDB database might increase.
+  > If you don't want to use DataStore as your saving method, you can read this tutorial. Since it's saved to MongoDB, you can use those data for other purposes too! For example: making a Discord bot dedicated for your game. Do note that if you have a game with large playerbase, the costs of your MongoDB database might increase.
 - [How to export Roblox rig to Blender, and import animation from Blender to Roblox](https://devforum.roblox.com/t/34729)
 - [F3X Basics Tutorial by bigranny000](https://www.youtube.com/watch?v=O6LUmU9vtKk) (old tutorial that is still good)
 - [Getting Started with F3X](https://www.youtube.com/watch?v=3VRVS4Me5kQ)
