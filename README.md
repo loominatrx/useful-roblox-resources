@@ -1,7 +1,7 @@
-# Useful Roblox resources
+# useful roblox resources.
 I've been browsing the DevForum lately as there are many awesome resources that I can use for my personal projects. I had a thought to share them here so you don't have to search those awesome resources by yourself (considering the DevForum is filled with trolls nowadays), and here it is. Make sure to credit the creator of the library that you're using somewhere on your game (even if the creator didn't ask to) as a appreciation for making such amazing resources!
 
-_Also, I expect you to have some knowledge about scripting and/or Roblox Studio in general, because some of the tutorials are really complicated. I can't really help you if you have some issues with them because I don't make those tutorials._
+If you're still skeptical about this list, this list contains **safe resources** that you can use for your games, so you don't have to worry about them being a malicious resource.
 
 ## Table of Contents
 - [Libraries](#libraries)
@@ -43,6 +43,8 @@ _Also, I expect you to have some knowledge about scripting and/or Roblox Studio 
 
 ### Utility Plugins
 
+A list of plugins that you can use to make your life easier than ever!
+
 | Plugin | Creator | Description | Price⠀⠀ | Notes |
 |:----|:----|:----|:----|:----|
 | [Atmos](https://devforum.roblox.com/t/443339) | Elttob ([DevForum](https://devforum.roblox.com/u/elttob), [GitHub](https://github.com/elttob)) | Provides you professional skyboxes and lighting that you can use in your game. | ![](/assets/robux_small.png) 150 | - |
@@ -58,7 +60,7 @@ _Also, I expect you to have some knowledge about scripting and/or Roblox Studio 
 
 ### Building Plugins
 
-I decided to make dedicated building plugins section as there are many building plugins that existed on Roblox marketplace and also to prevent confusion.
+I decided to make dedicated building plugins section as there are many building plugins that existed on Roblox marketplace, and also to prevent confusion.
 
 | Plugin | Creator | Description | Price⠀⠀ | Notes |
 |:----|:----|:----|:----|:----|
@@ -71,20 +73,26 @@ I decided to make dedicated building plugins section as there are many building 
 ## Community Tools
 | Tool | Creator | Description |
 |:----|:----|:----|
-| OpenCloudTools ([DevForum thread](https://devforum.roblox.com/t/1818516), [GitHub repo](https://github.com/jlwitthuhn/OpenCloudTools/)) | Skrateboard ([DevForum](https://devforum.roblox.com/u/Skrateboard), [GitHub](https://github.com/jlwitthuhn)) | A desktop application for Windows and MacOS (Linux is not supported, unfortunately) that allows you to interact with Roblox’s Open Cloud API. |
+| OpenCloudTools ([DevForum thread](https://devforum.roblox.com/t/1818516), [GitHub repo](https://github.com/jlwitthuhn/OpenCloudTools/)) | Skrateboard ([DevForum](https://devforum.roblox.com/u/Skrateboard), [GitHub](https://github.com/jlwitthuhn)) | A desktop application for Windows and MacOS (Linux is not supported, unfortunately) that allows you to interact with Roblox’s Open Cloud API. This means you can edit DataStores and publish contents with MessagingService outside of Roblox environment! |
 | PixelFix ([DevForum thread](https://devforum.roblox.com/t/pixelfix-remove-the-black-edges-on-scaled-images/201802), [GitHub repo](https://github.com/Corecii/Transparent-Pixel-Fix))| Corecii ([DevForum](https://devforum.roblox.com/u/Corecii), [GitHub](https://github.com/Corecii)) | Remove the black edges on scaled images, very useful if your images (especially icons) has black edges after uploading it on Roblox. |
 
 ## Honorable Mentions
 
-- https://www.kenney.nl/assets - A list of REALLY USEFUL resources (sound effects, low poly models, etc.)
+A list of resources that doesn't fit anywhere.
+
+- [Kenney.NL Assets](https://www.kenney.nl/assets) - A list of REALLY GOOD resources (sound effects, low poly models, etc.)
 - [Figma](https://figma.com) - A collaborative UI designing tool. Think it as Adobe XD or Illustrator, but it's free.
+- [Fluent Icons Explorer](https://fluenticons.co) - Lists of Microsoft's open source icons. Please credit them if you are using them in your game, as this is required to comply with [their repo license](https://github.com/microsoft/fluentui-system-icons/blob/master/LICENSE).
+- [Material Design Icons](https://fonts.google.com/icons) - Lists of Google's open source icons. Please credit them if you are using them in your game, as this is required to comply with [their repo license](https://github.com/google/material-design-icons/blob/master/LICENSE).
 
 ## Tutorials
+
+_I expect you to have some knowledge about scripting and/or Roblox Studio in general, because some of the tutorials can be complicated. I can't really help you if you have some issues with them because I don't make those tutorials._
 
 - [How to use ProfileService + ReplicaService](https://devforum.roblox.com/t/1464984)
   > I encourage you to read this one. It's really useful if you are developing big project that has inventory system or such.
 - [Saving player data to MongoDB Atlas in the cloud.](https://devforum.roblox.com/t/632977)
-  > If you don't want to use DataStore as your saving method, you can read this tutorial. Since it's saved to MongoDB, you can use those data for other purposes too! For example: making a Discord bot dedicated for your game. Do note that if you have a large game, the costs of MongoDB might increase.
+  > If you don't want to use DataStore as your saving method, you can read this tutorial. Since it's saved to MongoDB, you can use those data for other purposes too! For example: making a Discord bot dedicated for your game. Do note that if you have a large game, the costs of your MongoDB database might increase.
 - [How to export Roblox rig to Blender, and import animation from Blender to Roblox](https://devforum.roblox.com/t/34729)
 - [F3X Basics Tutorial by bigranny000](https://www.youtube.com/watch?v=O6LUmU9vtKk) (old tutorial that is still good)
 - [Getting Started with F3X](https://www.youtube.com/watch?v=3VRVS4Me5kQ)
