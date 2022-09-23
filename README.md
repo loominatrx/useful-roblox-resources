@@ -85,7 +85,8 @@ I decided to make dedicated building plugins section as there are many building 
 A list of resources that doesn't fit anywhere.
 
 - [Kenney.NL Assets](https://www.kenney.nl/assets) - A list of REALLY GOOD resources (sound effects, low poly models, etc.)
-- [Figma](https://figma.com) - A collaborative UI designing tool. Think it as Adobe XD or Illustrator, but it's free.
+- [Figma](https://figma.com) - A collaborative UI designing tool. Think it as Adobe XD or Sketch, but it's free.
+- [Penpot](https://penpot.app) - Figma, but it's [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software).
 - [Fluent Icons Explorer](https://fluenticons.co) - Lists of Microsoft's open source icons. Please credit them if you are using them in your game, as this is required to comply with [their repo license](https://github.com/microsoft/fluentui-system-icons/blob/master/LICENSE).
 - [Material Design Icons](https://fonts.google.com/icons) - Lists of Google's open source icons. Please credit them if you are using them in your game, as this is required to comply with [their repo license](https://github.com/google/material-design-icons/blob/master/LICENSE).
 - [ZapSplat](https://zapsplat.com) - This website contains WHOPPING 63.000 sounds that you can use for your games. By using their sound effects, **[you agree with their license](https://www.zapsplat.com/license-type/standard-license/)**.
