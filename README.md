@@ -107,6 +107,8 @@ Here's the list of tutorials made for beginners.
   > As the link said, _the ultimate UI design guide..._
 - [TheDevKing's Beginner Roblox Scripting Tutorial](https://www.youtube.com/watch?v=BkYwRdCukZA&list=PLhieaQmOk7nIfMZ1UmvKGPrwuwQVwAvFa)
   > Good Roblox Studio tutorial for beginners on YouTube.
+- [F3X Basics Tutorial by bigranny000](https://www.youtube.com/watch?v=O6LUmU9vtKk) (old tutorial that is still good)
+- [Getting Started with F3X](https://www.youtube.com/watch?v=3VRVS4Me5kQ)
 
 ### Advanced Tutorials
 
@@ -117,8 +119,6 @@ _I expect you to have some knowledge about scripting and/or Roblox Studio in gen
 - [Saving player data to MongoDB Atlas in the cloud.](https://devforum.roblox.com/t/632977)
   > If you don't want to use DataStore as your saving method, you can read this tutorial. Since it's saved to MongoDB, you can use those data for other purposes too! For example: making a Discord bot dedicated for your game. Do note that if you have a game with large playerbase, the costs of your MongoDB database might increase.
 - [How to export Roblox rig to Blender, and import animation from Blender to Roblox](https://devforum.roblox.com/t/34729)
-- [F3X Basics Tutorial by bigranny000](https://www.youtube.com/watch?v=O6LUmU9vtKk) (old tutorial that is still good)
-- [Getting Started with F3X](https://www.youtube.com/watch?v=3VRVS4Me5kQ)
 - [~~CollectionService, in a nutshell~~ Tutorial on how to use CollectionService](https://devforum.roblox.com/t/668984)
   > A easy tutorial if you are confused with [CollectionService](https://developer.roblox.com/en-us/api-reference/class/CollectionService).
 - [How to make server-synced daily shops](https://devforum.roblox.com/t/632401)
@@ -126,6 +126,8 @@ _I expect you to have some knowledge about scripting and/or Roblox Studio in gen
 ## Contributing
 
 You are welcome to contribute to this repository to make changes and/or add some interesting resources! Sharing is caring :D
+
+
 
 > Apologize if there are bad grammars at this readme, as English is not my native language! :) <br/> Thanks for reading, though!
 
