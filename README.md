@@ -40,8 +40,7 @@ If you're still skeptical about this list, this list contains **safe resources**
 | [Ragdoll Module](https://devforum.roblox.com/t/1747109) | [kalabgs](https://devforum.roblox.com/u/kalabgs) | A ragdoll module that works on every character rig (I hope...) | - | - |
 | [Notification Cards](https://devforum.roblox.com/t/topic/1448950) | [Plasmanode](https://devforum.roblox.com/u/plasma_node) | A easy-to-use notification card with decent UI. | Documented on the thread | A really good replacement for Roblox's built-in notification system |
 | [Roblox Lua Promise](https://github.com/evaera/roblox-lua-promise) | evaera | An implementation of Promise similar to Promise/A+. | [Docs](https://eryn.io/roblox-lua-promise/api/Promise) | - |
-
-
+| [Watchdog](https://devforum.roblox.com/t/watchdog-add-security-to-your-code-with-ease/1996690) | Im_Hiatus | An open-source basic moderation module. | - | - |
 ## Plugins
 
 ### Utility Plugins
