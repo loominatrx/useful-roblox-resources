@@ -1,7 +1,7 @@
 # useful roblox resources.
 I've been browsing the DevForum lately as there are many awesome resources that I can use for my personal projects. I had a thought to share them here so you don't have to search those awesome resources by yourself (considering most of the DevForum post on Resources category is filled with badly coded resources nowadays, no offense though), and here it is. Make sure to credit the creator of the library that you're using somewhere on your game (even if the creator didn't ask to) as a appreciation for making such amazing resources!
 
-If you're still skeptical about this list, this list contains **safe resources** that you can use for your games, so you don't have to worry about them being a malicious resource.
+This list contains **safe resources** that you can use for your games, so you don't have to worry about them being a malicious resource.
 
 ## Table of Contents
 - [Libraries](#libraries)
@@ -41,6 +41,9 @@ If you're still skeptical about this list, this list contains **safe resources**
 | [Notification Cards](https://devforum.roblox.com/t/topic/1448950) | [Plasmanode](https://devforum.roblox.com/u/plasma_node) | A easy-to-use notification card with decent UI. | Documented on the thread | A really good replacement for Roblox's built-in notification system |
 | [Roblox Lua Promise](https://github.com/evaera/roblox-lua-promise) | evaera | An implementation of Promise similar to Promise/A+. | [Docs](https://eryn.io/roblox-lua-promise/api/Promise) | - |
 | [Watchdog](https://devforum.roblox.com/t/watchdog-add-security-to-your-code-with-ease/1996690) | Im_Hiatus | An open-source basic moderation module. | - | - |
+
+
+
 ## Plugins
 
 ### Utility Plugins
