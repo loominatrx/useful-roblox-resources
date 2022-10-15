@@ -41,7 +41,7 @@ This list contains **safe resources** that you can use for your games, so you do
 | [Notification Cards](https://devforum.roblox.com/t/topic/1448950) | [Plasmanode](https://devforum.roblox.com/u/plasma_node) | A easy-to-use notification card with decent UI. | Documented on the thread | A really good replacement for Roblox's built-in notification system |
 | [Roblox Lua Promise](https://github.com/evaera/roblox-lua-promise) | evaera | An implementation of Promise similar to Promise/A+. | [Docs](https://eryn.io/roblox-lua-promise/api/Promise) | - |
 | [Watchdog](https://devforum.roblox.com/t/watchdog-add-security-to-your-code-with-ease/1996690) | Im_Hiatus | An open-source basic moderation module. | - | - |
-
+| LayoutUtil ([GitHub](https://github.com/Nickuhhh/LayoutUtil/), [DevForum thread](https://devforum.roblox.com/t/layoututil-automatically-sizes-a-scrollingframes-uigridlayoutuilistlayout/720840)) | [iiNemo](https://devforum.roblox.com/u/iiNemo) | This library was designed to aid developers in maintaining the aspect ratio of each child element within a ScrollingFrame, while automatically sizing the canvas. | - | - |
 
 
 ## Plugins
