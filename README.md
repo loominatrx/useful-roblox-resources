@@ -43,6 +43,7 @@ This list contains **safe resources** that you can use for your games, so you do
 | [Watchdog](https://devforum.roblox.com/t/watchdog-add-security-to-your-code-with-ease/1996690) | Im_Hiatus | An open-source basic moderation module. | - | - |
 | LayoutUtil ([GitHub](https://github.com/Nickuhhh/LayoutUtil/), [DevForum thread](https://devforum.roblox.com/t/layoututil-automatically-sizes-a-scrollingframes-uigridlayoutuilistlayout/720840)) | [iiNemo](https://devforum.roblox.com/u/iiNemo) | This library was designed to aid developers in maintaining the aspect ratio of each child element within a ScrollingFrame, while automatically sizing the canvas. | - | - |
 | [Proximity Prompt Customizer](https://devforum.roblox.com/t/proximity-prompt-customizer/1663458) | [BitwiseAndrea](https://devforum.roblox.com/u/BitwiseAndrea) | Customize Roblox's built-in [ProximityPrompt](https://create.roblox.com/docs/reference/engine/classes/ProximityPrompt) with ease! | - | This library is *plug-and-play*, which means you just have to put it somewhere to make it work. |
+| [PartyService](https://devforum.roblox.com/t/party-service-v2-create-a-party-system-more-easily/1816870) | [CavaleiroDev](https://devforum.roblox.com/u/CavaleiroDev) | Manage party lobbies with ease. | Documented on the thread | Seems like a good module, but this module's documentation is badly written. Don't use if you need a versatile party system. |
 
 
 ## Plugins
