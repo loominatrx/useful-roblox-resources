@@ -67,6 +67,7 @@ A list of plugins that you can use to make your life easier than ever!
 | [RoRender](https://devforum.roblox.com/t/minimap-render-rorenderv2/965827/) | reteach ([DevForum](https://devforum.roblox.com/u/reteach), [GitHub](https://github.com/AJSteinhauser)) | Minimap renderer. | Free! | Might be very demanding depending on how big & detailed your map is, and how powerful your PC is. Use with caution. |
 | [Interface Tools](https://devforum.roblox.com/t/404423) | [fivefactor](https://devforum.roblox.com/u/fivefactor) | The plugin helps expedite user interface design by providing easy access to hundreds of icons, patterns, gradients, and button styles. | Free! | - |
 | Tag Editor ([DevForum thread](https://devforum.roblox.com/t/101465), [GitHub repo](https://github.com/tiffany352/Roblox-Tag-Editor/)) | [Sweetheartichoke](https://devforum.roblox.com/u/Sweetheartichoke) | This plugin allows you to create tags, and then assign them to objects in your game. You can also visualize and view a list of what objects have a given tag, and so on. | Free! | You should read the DevForum thread to know the key feature of this plugin (and also a bit of explanation on using [CollectionService](https://developer.roblox.com/en-us/api-reference/class/CollectionService), since the plugin relies on it). |
+| [Lucide Icon Picker](https://devforum.roblox.com/t/lucide-icon-picker-%E2%80%94-beautiful-open-source-and-free-icons-for-your-work/1507946/) | [7kayoh](https://devforum.roblox.com/u/7kayoh) | An icon picker for [Lucide Icons](https://github.com/lucide-icons/lucide). | Free! | Not all icons are available, as this plugin is still in alpha stage. |
 
 ### Building Plugins
 
@@ -97,6 +98,7 @@ A list of resources that doesn't fit anywhere.
 - [Fluent Icons Explorer](https://fluenticons.co) - Lists of Microsoft's open source icons. Please credit them if you are using them in your game, as this is required to comply with [their repo license](https://github.com/microsoft/fluentui-system-icons/blob/master/LICENSE).
 - [Material Design Icons](https://fonts.google.com/icons) - Lists of Google's open source icons. Please credit them if you are using them in your game, as this is required to comply with [their repo license](https://github.com/google/material-design-icons/blob/master/LICENSE).
 - [ZapSplat](https://zapsplat.com) - This website contains WHOPPING 63.000 sounds that you can use for your games. By using their sound effects, **[you agree with their license](https://www.zapsplat.com/license-type/standard-license/)**.
+- [Xyianide's Hotbar & Inventory system](https://devforum.roblox.com/t/open-sourced-inventory-and-hotbar-system/1780963) - An open-sourced inventory & hotbar system. I put it here because this is not a library.
 
 ## Tutorials
 
