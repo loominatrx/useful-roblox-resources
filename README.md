@@ -3,6 +3,8 @@ I've been browsing the DevForum lately as there are many awesome resources that 
 
 This list contains **safe resources** that you can use for your games, so you don't have to worry about them being a malicious resource.
 
+<sup>Also, this repo will be updated as long as I found something interesting on DevForum (or GitHub) and will not be updated frequently.
+
 ## Table of Contents
 - [Libraries](#libraries)
 - [Plugins](#plugins)
