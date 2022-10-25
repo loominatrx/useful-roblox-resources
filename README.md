@@ -92,7 +92,7 @@ I decided to make dedicated building plugins section as there are many building 
 | PixelFix ([DevForum thread](https://devforum.roblox.com/t/pixelfix-remove-the-black-edges-on-scaled-images/201802), [GitHub repo](https://github.com/Corecii/Transparent-Pixel-Fix))| Corecii ([DevForum](https://devforum.roblox.com/u/Corecii), [GitHub](https://github.com/Corecii)) | Remove the black edges on scaled images, very useful if your images (especially icons) has black edges after uploading it on Roblox. |
 | [Rojo](https://rojo.space) | [The Rojo Team](https://github.com/rojo-rbx) | Rojo is a project management tool designed to get professional resources in the hands of Roblox developers. |
 | [rbxfpsunlocker](https://github.com/axstin/rbxfpsunlocker) | [axstin](https://github.com/axstin/rbxfpsunlocker) | FPS unlocker for Roblox (both Client and Studio). Can be used to fix weird stuff in your game. <sup>ahem, experience</sup> |
-| [Grapejuice](https://devforum.roblox.com/t/grapejuice-easily-run-roblox-on-linux/262949) | Brinker7 ([DevForum](https://devforum.roblox.com/u/Brinker7), [GitLab](https://gitlab.com/brinkervii/)) | Easily run Roblox Player and Roblox Studio on Linux. Note: This is not officially supported by Roblox, so use at your own risk. |
+| [Grapejuice](https://devforum.roblox.com/t/grapejuice-easily-run-roblox-on-linux/262949) | Brinker7 ([DevForum](https://devforum.roblox.com/u/Brinker7), [GitLab](https://gitlab.com/brinkervii/)) | Easily run Roblox Player and Roblox Studio on Linux. <br />Note: This is not officially supported by Roblox, so use at your own risk. |
 
 ## Honorable Mentions
 
