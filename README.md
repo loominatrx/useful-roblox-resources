@@ -50,6 +50,9 @@ This list contains **safe resources** that you can use for your games, so you do
 | [Lexer](https://devforum.roblox.com/t/lexer-for-rbx-lua/183115) | sleitnick ([DevForum](https://devforum.roblox.com/u/sleitnick), [GitHub](https://github.com/sleitnick)), boatbomber ([DevForum](https://devforum.roblox.com/u/boatbomber), [GitHub](https://github.com/boatbomber)) | Lexical scanner for creating a sequence of tokens from Lua source code. | Documented on the source code itself | Can be useful if you want to create something like a [syntax highlighting](https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/a/5/2/a52266e471fc7a78d0589b64b4950ca38a1f0367.png) for your game/plugin. ||
 | [SliderService](https://devforum.roblox.com/t/sliderservice-create-easy-and-functional-sliders/1597785) | [Krystaltinan](https://devforum.roblox.com/u/Krystaltinan) | A slider module with tons of customizabilty. | Documented on the thread | Basically [RbxGuiLib](https://devforum.roblox.com/t/719287)'s slider module but more customizable. |
 | GuiCollisionService ([DevForum thread](https://github.com/jaipack17/GuiCollisionService/), [GitHub repo](https://devforum.roblox.com/t/v30-guicollisionservice-gui-collisions-done-right/1370948)) | jaipack17 ([DevForum](https://devforum.roblox.com/u/jaipack17), [GitHub](https://github.com/jaipack17/)) | A 2D Collision module | [Docs](https://github.com/jaipack17/GuiCollisionService/blob/main/README.md#documentation) | _if you want to create 2d-based game, use this lol_ |
+| DataStore2 ([GitHub repo](https://github.com/Kampfkarren/Roblox/tree/master/DataStore2), [DevForum Thread](https://devforum.roblox.com/t/how-to-use-datastore2-data-store-caching-and-data-loss-prevention/136317)) | Kampfkarren ([DevForum](https://devforum.roblox.com/u/Kampfkarren), [Github](https://github.com/Kampfkarren)) | Open source module that uses berezaa’s method of saving data that prevents data loss, caches, and verifies data before saving. | [Docs](https://kampfkarren.github.io/Roblox/) | It is quite popular, however some people prefer ProfileService for its session-locking. |
+| EZ Camera Shake ported to ROBLOX ([Github repo](https://github.com/Sleitnick/RbxCameraShaker), [DevForum Thread](https://devforum.roblox.com/t/ez-camera-shake-ported-to-roblox/98482)) | Sleitnick ([DevForum](https://devforum.roblox.com/u/sleitnick), [Github](https://github.com/Sleitnick)) | A Roblox port of EZ Camera Shake from Unity3D asset | Documented on thread | - |
+| Realism ([Github Repo](https://github.com/MaximumADHD/Character-Realism), [DevForum Thread](https://devforum.roblox.com/t/realism-%E2%80%94-make-your-games-feel-more-immersive/898642/14)) | MaximumADHD ([DevForum](https://devforum.roblox.com/u/maximum_adhd), [Github](https://github.com/MaximumADHD)) | A light-weight character enhancement system for better third-person and first-person POVs | -  | - |
 
 
 ## Plugins
@@ -72,7 +75,8 @@ A list of plugins that you can use to make your life easier than ever!
 | Tag Editor ([DevForum thread](https://devforum.roblox.com/t/101465), [GitHub repo](https://github.com/tiffany352/Roblox-Tag-Editor/)) | [Sweetheartichoke](https://devforum.roblox.com/u/Sweetheartichoke) | This plugin allows you to create tags, and then assign them to objects in your game. You can also visualize and view a list of what objects have a given tag, and so on. | Free! | You should read the DevForum thread to know the key feature of this plugin (and also a bit of explanation on using [CollectionService](https://developer.roblox.com/en-us/api-reference/class/CollectionService), since the plugin relies on it). |
 | [Lucide Icon Picker](https://devforum.roblox.com/t/lucide-icon-picker-%E2%80%94-beautiful-open-source-and-free-icons-for-your-work/1507946/) | [7kayoh](https://devforum.roblox.com/u/7kayoh) | An icon picker for [Lucide Icons](https://github.com/lucide-icons/lucide). | Free! | Not all icons are available, as this plugin is still in alpha stage. Also, the Roblox library version is not working, [get it here instead](https://gitlab.com/koterahq/luciderblx/plugin/-/releases). |
 | [QCS](https://devforum.roblox.com/t/qcs-quick-code-snippets-plugin/2033134/) | [LoganboyInCO](https://devforum.roblox.com/u/LoganboyInCO) | A code snippet plugin built with Studio's [Script Editor API](https://devforum.roblox.com/t/script-editor-api-full-release/2032451) | Free! | Still on early stage, doesn't have good amount of customizability. |
-| [Dialogue Editor](https://devforum.roblox.com/t/advanced-dialogue-system-node-editor/1526346) | [Sol_ttu](https://devforum.roblox.com/u/Sol_ttu) | A advanced dialogue editor with a cool node editor, so you can make dialigues without killing your brain with scripting. | Free! | Really, you should check this out when creating RPG game. It's easy to use! |
+| [Dialogue Editor](https://devforum.roblox.com/t/advanced-dialogue-system-node-editor/1526346) | [Sol_ttu](https://devforum.roblox.com/u/Sol_ttu) | An advanced dialogue editor with a cool node editor, so you can make dialogues without killing your brain with scripting. | Free! | Really, you should check this out when creating RPG game. It's easy to use! |
+| [Moon Animator 2](https://www.roblox.com/library/4725618216/Moon-Animator-2) | [xsixx](https://www.roblox.com/users/9543399/profile/) | An advanced animation editor | ![](/assets/robux_small.png) 800 | Incredibly popular animation editor plugin and very advanced |
 
 ### Building Plugins
 
@@ -99,6 +103,8 @@ I decided to make dedicated building plugins section as there are many building 
 
 A list of resources that doesn't fit anywhere.
 
+- [New Official Roblox Documentation](https://create.roblox.com/dashboard) - Incredibly useful and contains many guides
+- [Official Luau Documentation](https://luau-lang.org/) - Luau documentation which contains syntax and style guides
 - [Kenney.NL Assets](https://www.kenney.nl/assets) - A list of REALLY GOOD resources (sound effects, low poly models, etc.)
 - [Figma](https://figma.com) - A collaborative UI designing tool. Think it as Adobe XD or Sketch, but it's free.
 - [Penpot](https://penpot.app) - Figma, but it's [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software).
@@ -109,12 +115,16 @@ A list of resources that doesn't fit anywhere.
 
 ## Tutorials
 
-Here you can find list of good tutoials, handpicked by me.
+Here you can find list of good tutorials, handpicked by me.
 
 ### Beginner Tutorials
 
 Here's the list of tutorials made for beginners.
 
+- [Roblox Fandom](https://roblox.fandom.com/wiki/Category:Tutorials)
+  > A collection of community-made tutorials ranging from beginner-level to advanced.
+- [DevForum Community Tutorials](https://devforum.roblox.com/c/resources/community-tutorials/)
+  > A collection of community-made tutorials in the official Roblox DevForum
 - [Learn Roblox Studio](https://developer.roblox.com/en-us/onboarding) 
   > Official Roblox Studio guide made for beginners who are new to Roblox Studio.
 - [All Roblox Studio Tutorials](https://developer.roblox.com/en-us/learn-roblox/all-tutorials)
@@ -145,7 +155,7 @@ You are welcome to contribute to this repository to make changes and/or add some
 
 
 
-> Apologize if there are bad grammars at this readme, as English is not my native language! :) <br/> Thanks for reading, though!
+> Apologize if there is bad grammar in this readme, as English is not my native language! :) <br/> Thanks for reading, though!
 
 ### Foot notes
 
