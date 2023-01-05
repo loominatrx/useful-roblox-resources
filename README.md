@@ -115,14 +115,16 @@ A list of resources that doesn't fit anywhere.
 
 ## Tutorials
 
-Here you can find list of good tutoials, handpicked by me.
+Here you can find list of good tutorials, handpicked by me.
 
 ### Beginner Tutorials
 
 Here's the list of tutorials made for beginners.
 
 - [Roblox Fandom](https://roblox.fandom.com/wiki/Category:Tutorials)
-  > A collection of community made tutorials ranging from beginner-level to advanced.
+  > A collection of community-made tutorials ranging from beginner-level to advanced.
+- [DevForum Community Tutorials](https://devforum.roblox.com/c/resources/community-tutorials/)
+  > A collection of community-made tutorials in the official Roblox DevForum
 - [Learn Roblox Studio](https://developer.roblox.com/en-us/onboarding) 
   > Official Roblox Studio guide made for beginners who are new to Roblox Studio.
 - [All Roblox Studio Tutorials](https://developer.roblox.com/en-us/learn-roblox/all-tutorials)
