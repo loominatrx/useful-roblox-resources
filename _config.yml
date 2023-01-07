@@ -3,5 +3,5 @@ title: useful roblox resources.
 minima:
   skin: dark
 
-theme: minima
+remote_theme: jekyll/minima
 
