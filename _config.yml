@@ -1,6 +1,6 @@
 title: useful roblox resources.
 description: very self explanatory
 
-remote_theme: pages-themes/tactile@v0.2.0
+remote_theme: jekyll/minima
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
