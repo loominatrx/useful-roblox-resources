@@ -76,7 +76,7 @@ A list of plugins that you can use to make your life easier than ever!
 | [QCS](https://devforum.roblox.com/t/qcs-quick-code-snippets-plugin/2033134/) | [LoganboyInCO](https://devforum.roblox.com/u/LoganboyInCO) | A code snippet plugin built with Studio's [Script Editor API](https://devforum.roblox.com/t/script-editor-api-full-release/2032451) | Free! | Still on early stage, doesn't have good amount of customizability. |
 | [Dialogue Editor](https://devforum.roblox.com/t/advanced-dialogue-system-node-editor/1526346) | [Sol_ttu](https://devforum.roblox.com/u/Sol_ttu) | An advanced dialogue editor with a cool node editor, so you can make dialogues without killing your brain with scripting. | Free! | Really, you should check this out when creating RPG game. It's easy to use! |
 | [Moon Animator 2](https://www.roblox.com/library/4725618216/Moon-Animator-2) | [xsixx](https://www.roblox.com/users/9543399/profile/) | An advanced animation editor with robust and versatile features | ![](/assets/robux_small.png) 800 | VERY USEFUL if you are attempting to make video animations inside Roblox. |
-| [Studio Fast Travel](https://devforum.roblox.com/t/studio-fast-travel-free-plugin-for-developers/2130256) | [CurtisOrNot](https://devforum.roblox.com/u/curtisornot) | This plugin allows you to save and teleport your studio camera so you don't have to fly to one over and over again! | Free! | - |
+| [Studio Fast Travel](https://devforum.roblox.com/t/studio-fast-travel-free-plugin-for-developers/2130256) | [CurtisOrNot](https://devforum.roblox.com/u/curtisornot) | This plugin allows you to save and teleport your studio camera so you don't have to fly to one location over and over again! | Free! | - |
 
 ### Building Plugins
 
