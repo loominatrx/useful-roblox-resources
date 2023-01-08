@@ -53,6 +53,15 @@ This list contains **safe resources** that you can use for your games, so you do
 | EZ Camera Shake ported to ROBLOX ([Github repo](https://github.com/Sleitnick/RbxCameraShaker), [DevForum Thread](https://devforum.roblox.com/t/ez-camera-shake-ported-to-roblox/98482)) | Sleitnick ([DevForum](https://devforum.roblox.com/u/sleitnick), [Github](https://github.com/Sleitnick)) | A Roblox port of EZ Camera Shake from Unity3D asset | Documented on thread | - |
 | Realism ([Github Repo](https://github.com/MaximumADHD/Character-Realism), [DevForum Thread](https://devforum.roblox.com/t/realism-%E2%80%94-make-your-games-feel-more-immersive/898642/14)) | MaximumADHD ([DevForum](https://devforum.roblox.com/u/maximum_adhd), [Github](https://github.com/MaximumADHD)) | A light-weight character enhancement system for better third-person and first-person POVs | -  | - |
 | Searcher ([GitHub repo](https://github.com/xSwezan/Searcher), [DevForum thread](https://devforum.roblox.com/t/searcher-easier-instance-searching/2130088)) | xSwezan ([DevForum](https://devforum.roblox.com/u/xSwezan), [GitHub](https://github.com/xSwezan/)) | Search for Instance with specific criteria | WIP | If you need a replacement of Roblox's [FindFirstChild](https://create.roblox.com/docs/reference/engine/classes/Instance#FindFirstChild) or even [FindFirstChildOfClass](https://create.roblox.com/docs/reference/engine/classes/Instance#FindFirstChildOfClass), then this one is for you, I guess...<br/>Looking at the source code, it is easy to use as well! |
+| String+ ([GitHub repo](https://github.com/EgizianoEG/String-Plus), [DevForum thread](https://devforum.roblox.com/t/stringplus-an-extended-string-manipulation-library/2094017)) | EgizianoEG ([DevForum](https://devforum.roblox.com/u/EgizianoEG), [GitHub](https://github.com/EgizianoEG/)) | Extended library of the default `string` library. | https://github.com/EgizianoEG/String-Plus/wiki | - |
+
+<!--
+If you are adding new library to the list, paste this under the list and change it accordingly:
+| [Library name](paste devforum link here) | [Author](paste devforum url here) | desc | docs link | notes |
+
+If the library also has GitHub repository, paste this one instead
+| Library name ([GitHub repo](paste github url here), [DevForum thread](paste devforum url here)) | Author ([DevForum](paste devforum url here), [GitHub](paste github url here)) | desc | docs link | notes |
+-->
 
 ## Plugins
 
@@ -78,6 +87,17 @@ A list of plugins that you can use to make your life easier than ever!
 | [Moon Animator 2](https://www.roblox.com/library/4725618216/Moon-Animator-2) | [xsixx](https://www.roblox.com/users/9543399/profile/) | An advanced animation editor with robust and versatile features | ![](/assets/robux_small.png) 800 | VERY USEFUL if you are attempting to make video animations inside Roblox. |
 | [Studio Fast Travel](https://devforum.roblox.com/t/studio-fast-travel-free-plugin-for-developers/2130256) | [CurtisOrNot](https://devforum.roblox.com/u/curtisornot) | This plugin allows you to save and teleport your studio camera so you don't have to fly to one location over and over again! | Free! | - |
 
+<!--
+If you are adding new plugin to the list, paste this under the list and change it accordingly:
+| [Plugin name](paste devforum link here) | [Author](paste devforum url here) | desc | price | notes |
+
+If the plugin also has GitHub repository, paste this one instead
+| Plugin name ([GitHub repo](paste github url here), [DevForum thread](paste devforum url here)) | Author ([DevForum](paste devforum url here), [GitHub](paste github url here)) | desc | price | notes |
+
+If the plugin is paid, consider adding `![](/assets/robux_small.png)` (without the backtick) before the prince number, so it would be:
+![](/assets/robux_small.png) 800
+-->
+
 ### Building Plugins
 
 I decided to make dedicated building plugins section as there are many building plugins that existed on Roblox marketplace, and also to prevent confusion.
@@ -89,6 +109,17 @@ I decided to make dedicated building plugins section as there are many building 
 | [ThreeDText2](https://devforum.roblox.com/t/290144) | [XAXA](https://devforum.roblox.com/u/XAXA) | Create 3D text with mesh parts | Free! | - |
 | [Archimedes 3](https://devforum.roblox.com/t/1610366) | [Scriptos](https://devforum.roblox.com/u/Scriptos) | A Roblox building plugin that allows users to easily create smooth arcs. | Free! | *"If you’re capable of using something like Blender, then It’s HIGHLY recommended to use that instead. Archimedes is not a magic solution to creating “bendy” parts. Excessive use can lead to high part count, which is undesirable for performance reasons."*<br/>- Scriptos |
 | [Building Tools by F3X](https://www.roblox.com/library/144950355/) | [GigsD4X](https://www.roblox.com/users/484140/profile/) | A set of wonderfully simple and powerful in-game building tools, designed and built by the F3X team. | Free! | Definetly recommend you to use this plugin due to the features that it has to offer. |
+
+<!--
+If you are adding new plugin to the list, paste this under the list and change it accordingly:
+| [Plugin name](paste devforum link here) | [Author](paste devforum url here) | desc | price | notes |
+
+If the plugin also has GitHub repository, paste this one instead
+| Plugin name ([GitHub repo](paste github url here), [DevForum thread](paste devforum url here)) | Author ([DevForum](paste devforum url here), [GitHub](paste github url here)) | desc | price | notes |
+
+If the plugin is paid, consider adding `![](/assets/robux_small.png)` (without the backtick) before the prince number, so it would be:
+![](/assets/robux_small.png) 800
+-->
 
 ## Community Tools
 
