@@ -1,4 +1,3 @@
-## About this repo
 I've been browsing the DevForum lately as there are many awesome resources that I can use for my personal projects. I had a thought to share them here so you don't have to search those awesome resources by yourself (considering most of the DevForum post on Resources category is filled with badly coded resources nowadays, no offense though), and here it is. Make sure to credit the creator of the library that you're using somewhere on your game (even if the creator didn't ask to) as a appreciation for making such amazing resources!
 
 This list contains **safe resources** that you can use for your games, so you don't have to worry about them being a malicious resource.
