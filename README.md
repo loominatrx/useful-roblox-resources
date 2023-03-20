@@ -1,3 +1,4 @@
+## About this repo
 I've been browsing the DevForum lately as there are many awesome resources that I can use for my personal projects. I had a thought to share them here so you don't have to search those awesome resources by yourself (considering most of the DevForum post on Resources category is filled with badly coded resources nowadays, no offense though), and here it is. Make sure to credit the creator of the library that you're using somewhere on your game (even if the creator didn't ask to) as a appreciation for making such amazing resources!
 
 This list contains **safe resources** that you can use for your games, so you don't have to worry about them being a malicious resource.
@@ -54,6 +55,8 @@ This list contains **safe resources** that you can use for your games, so you do
 | Realism ([Github Repo](https://github.com/MaximumADHD/Character-Realism), [DevForum Thread](https://devforum.roblox.com/t/realism-%E2%80%94-make-your-games-feel-more-immersive/898642/14)) | MaximumADHD ([DevForum](https://devforum.roblox.com/u/maximum_adhd), [Github](https://github.com/MaximumADHD)) | A light-weight character enhancement system for better third-person and first-person POVs | - | - |
 | Searcher ([GitHub repo](https://github.com/xSwezan/Searcher), [DevForum thread](https://devforum.roblox.com/t/searcher-easier-instance-searching/2130088)) | xSwezan ([DevForum](https://devforum.roblox.com/u/xSwezan), [GitHub](https://github.com/xSwezan/)) | Search for Instance with specific criteria | WIP | If you need a replacement of Roblox's [FindFirstChild](https://create.roblox.com/docs/reference/engine/classes/Instance#FindFirstChild) or even [FindFirstChildOfClass](https://create.roblox.com/docs/reference/engine/classes/Instance#FindFirstChildOfClass), then this one is for you, I guess...<br/>Looking at the source code, it is easy to use as well! |
 | String+ ([GitHub repo](https://github.com/EgizianoEG/String-Plus), [DevForum thread](https://devforum.roblox.com/t/stringplus-an-extended-string-manipulation-library/2094017)) | EgizianoEG ([DevForum](https://devforum.roblox.com/u/EgizianoEG), [GitHub](https://github.com/EgizianoEG/)) | Extended library of the default `string` library. | [Docs](https://github.com/EgizianoEG/String-Plus/wiki) | - |
+| Social Chat ([GitHub repo](https://github.com/Cosmental/Social-Chat), [DevForum thread](https://devforum.roblox.com/t/1921616/1)) | EgizianoEG ([DevForum](https://devforum.roblox.com/u/Cosmental), [GitHub](https://github.com/Cosmental)) | A completely custom chat system with cool features such as easy-to-use API, custom emoji support, chat highlight support for readability. | [Docs](https://devforum.roblox.com/t/1921616/1#documentation-6) | Be sure to read the FAQs on the GitHub repo if you want to add your own custom emoji |
+| [Sunflares](https://devforum.roblox.com/t/topic/2214649/1) | [MrChickenRocket](https://devforum.roblox.com/u/MrChickenRocket) | Screenspace particle rendering and sun glow effect | no docs since it's just plug-and-play lol | - |
 
 <!--
 If you are adding new library to the list, paste this under the list and change it accordingly:
@@ -109,6 +112,8 @@ I decided to make dedicated building plugins section as there are many building 
 | [ThreeDText2](https://devforum.roblox.com/t/290144) | [XAXA](https://devforum.roblox.com/u/XAXA) | Create 3D text with mesh parts | Free! | - |
 | [Archimedes 3](https://devforum.roblox.com/t/1610366) | [Scriptos](https://devforum.roblox.com/u/Scriptos) | A Roblox building plugin that allows users to easily create smooth arcs. | Free! | *"If you’re capable of using something like Blender, then It’s HIGHLY recommended to use that instead. Archimedes is not a magic solution to creating “bendy” parts. Excessive use can lead to high part count, which is undesirable for performance reasons."*<br/>- Scriptos |
 | [Building Tools by F3X](https://www.roblox.com/library/144950355/) | [GigsD4X](https://www.roblox.com/users/484140/profile/) | A set of wonderfully simple and powerful in-game building tools, designed and built by the F3X team. | Free! | Definetly recommend you to use this plugin due to the features that it has to offer. |
+| [QuickRoad](https://devforum.roblox.com/t/2024127/1) | [stravant](https://devforum.roblox.com/u/stravant) | A fully customizable road generator plugin, basically. | Free! | Supports arbitrary shapes too! |
+| [Hide Water](https://devforum.roblox.com/t/2209977) | [PoppyandNeivaarecute](https://devforum.roblox.com/u/PoppyandNeivaarecute) | This plugin allows you to toggle the visibility of terrain water. | Free! | - |
 
 <!--
 If you are adding new plugin to the list, paste this under the list and change it accordingly:
@@ -117,7 +122,7 @@ If you are adding new plugin to the list, paste this under the list and change i
 If the plugin also has GitHub repository, paste this one instead
 | Plugin name ([GitHub repo](paste github url here), [DevForum thread](paste devforum url here)) | Author ([DevForum](paste devforum url here), [GitHub](paste github url here)) | desc | price | notes |
 
-If the plugin is paid, consider adding `![](/assets/robux_small.png)` (without the backtick) before the prince number, so it would be:
+If the plugin is paid, consider adding `![](/assets/robux_small.png)` (without the backtick) before the price number, so it would be:
 ![](/assets/robux_small.png) 800
 -->
 
@@ -144,6 +149,7 @@ A list of resources that doesn't fit anywhere.
 - [Material Design Icons](https://fonts.google.com/icons) - Lists of Google's open source icons. Please credit them if you are using them in your game, as this is required to comply with [their repo license](https://github.com/google/material-design-icons/blob/master/LICENSE).
 - [ZapSplat](https://zapsplat.com) - This website contains WHOPPING 63.000 sounds that you can use for your games. By using their sound effects, **[you agree with their license](https://www.zapsplat.com/license-type/standard-license/)**.
 - [Xyianide's Hotbar & Inventory system](https://devforum.roblox.com/t/open-sourced-inventory-and-hotbar-system/1780963) - An open-sourced inventory & hotbar system. I put it here because this is not a library.
+- [Procedurally Generated Maze Algorithm](https://devforum.roblox.com/t/topic/1424054/1) - An open-sourced maze algorithm.
 
 ## Tutorials
 
@@ -180,6 +186,9 @@ _I expect you to have some knowledge about scripting and/or Roblox Studio in gen
 - [~~CollectionService, in a nutshell~~ Tutorial on how to use CollectionService](https://devforum.roblox.com/t/668984)
   > A easy tutorial if you are confused with [CollectionService](https://developer.roblox.com/en-us/api-reference/class/CollectionService).
 - [How to make server-synced daily shops](https://devforum.roblox.com/t/632401)
+- [Typechecking on OOP across scopes](https://devforum.roblox.com/t/2216110/1)
+- [Weighed chance system](https://devforum.roblox.com/t/1373953/1)
+- [Tips on making your game accessible](https://devforum.roblox.com/t/1375919/1)
 
 ## Contributing
 
