@@ -14,6 +14,7 @@ This list contains **safe resources** that you can use for your games, so you do
 - [Tutorials](#tutorials)
   - [Beginner Tutorials](#beginner-tutorials)
   - [Advanced Tutorials](#advanced-tutorials)
+  - [Tips and Tricks](#tips-and-tricks)
 - [Contributing](#contributing)
 
 
@@ -56,10 +57,13 @@ This list contains **safe resources** that you can use for your games, so you do
 | String+ ([GitHub repo](https://github.com/EgizianoEG/String-Plus), [DevForum thread](https://devforum.roblox.com/t/stringplus-an-extended-string-manipulation-library/2094017)) | EgizianoEG ([DevForum](https://devforum.roblox.com/u/EgizianoEG), [GitHub](https://github.com/EgizianoEG/)) | Extended library of the default `string` library. | [Docs](https://github.com/EgizianoEG/String-Plus/wiki) | - |
 | Social Chat ([GitHub repo](https://github.com/Cosmental/Social-Chat), [DevForum thread](https://devforum.roblox.com/t/1921616/1)) | EgizianoEG ([DevForum](https://devforum.roblox.com/u/Cosmental), [GitHub](https://github.com/Cosmental)) | A completely custom chat system with cool features such as easy-to-use API, custom emoji support, chat highlight support for readability. | [Docs](https://devforum.roblox.com/t/1921616/1#documentation-6) | Be sure to read the FAQs on the GitHub repo if you want to add your own custom emoji |
 | [Sunflares](https://devforum.roblox.com/t/topic/2214649/1) | [MrChickenRocket](https://devforum.roblox.com/u/MrChickenRocket) | Screenspace particle rendering and sun glow effect | no docs since it's just plug-and-play lol | - |
-| Iris ([GitHub repo](https://github.com/Michael-48/Iris), [DevForum thread](https://devforum.roblox.com/t/iris-immediate-mode-ui-library-based-on-dear-imgui/2302802)) | Alyrianix ([DevForum](https://devforum.roblox.com/u/Alyrianix), [GitHub](](https://github.com/Michael-48)) | Immediate mode GUI Library for Roblox, Based on [Dear ImGui](https://github.com/ocornut/imgui) | [Docs](https://michael-48.github.io/Iris) | If you want more updated debugging UI module than datGUI, I'd recommend you to check this one |
+| Iris ([GitHub repo](https://github.com/Michael-48/Iris), [DevForum thread](https://devforum.roblox.com/t/iris-immediate-mode-ui-library-based-on-dear-imgui/2302802)) | Alyrianix ([DevForum](https://devforum.roblox.com/u/Alyrianix), [GitHub](https://github.com/Michael-48)) | Immediate mode GUI Library for Roblox, Based on [Dear ImGui](https://github.com/ocornut/imgui) | [Docs](https://michael-48.github.io/Iris) | If you want more updated debugging UI module than datGUI, I'd recommend you to check this one |
 | [Knit](https://github.com/Sleitnick/Knit) | [sleitnick](https://github.com/Sleitnick) | Lightweight game framework for Roblox | [Docs](https://sleitnick.github.io/Knit/docs/gettingstarted) | If you want to organize your workflow, you came at the right place. |
 | [RbxUtil](https://github.com/Sleitnick/RbxUtil) | [sleitnick](https://github.com/Sleitnick) | A collection of utility modules for Roblox. | [Docs](https://sleitnick.github.io/RbxUtil/api) | Use Rojo to utilize each of these. If you desperately want one of them, [standalone Knit already have them all](https://www.roblox.com/library/5530714855/Knit). |
 | [roblox-pyc](https://devforum.roblox.com/t/roblox-pyc-a-python-c-c-moonscript-textjson-port-to-roblox-because-we-need-a-better-language/2490862) | [AsynchronousAI](https://devforum.roblox.com/u/Dev98799) | A Python, C, C++, Moonscript, Text/Json port to Roblox. | [Docs](https://robloxpyc.gitbook.io/roblox-pyc/) | cutting-edge project, do not use in production. |
+| [Real Sun Path](https://devforum.roblox.com/t/real-sun-path-realistic-sun-movement-and-longershorter-days/2275337) | [Pulsarnova](https://devforum.roblox.com/u/Pulsarnova) | Realistic Sun Movement and Longer/Shorter Days! | no docs since it's just plug-and-play library lol | You should read the full thread, since it has useful information for you to learn. |
+| [Dynamic Weather Library](https://devforum.roblox.com/t/dynamic-weather-library-beta-10/1547614) | [anon53193547](https://devforum.roblox.com/u/anon53193547) | A highly realistic simulation of weather. | - | - |
+| [Zlib/Deflate String Compression](https://devforum.roblox.com/t/string-compression-zlibdeflate/755687/10) | [Scarious](https://devforum.roblox.com/u/Scarious) | well, a compression library... | [Docs](https://devforum.roblox.com/t/string-compression-zlibdeflate/755687#documentation-2) | Useful for data compression |
 
 <!--
 If you are adding new library to the list, paste this under the list and change it accordingly:
@@ -92,6 +96,9 @@ A list of plugins that you can use to make your life easier than ever!
 | [Dialogue Editor](https://devforum.roblox.com/t/advanced-dialogue-system-node-editor/1526346) | [Sol_ttu](https://devforum.roblox.com/u/Sol_ttu) | An advanced dialogue editor with a cool node editor, so you can make dialogues without killing your brain with scripting. | Free! | Really, you should check this out when creating RPG game. It's easy to use! |
 | [Moon Animator 2](https://www.roblox.com/library/4725618216/Moon-Animator-2) | [xsixx](https://www.roblox.com/users/9543399/profile/) | An advanced animation editor with robust and versatile features | ![](/assets/robux_small.png) 1,700 | VERY EXPENSIVE, yet VERY USEFUL PLUGIN if you are attempting to make video animations inside Roblox. |
 | [Studio Fast Travel](https://devforum.roblox.com/t/studio-fast-travel-free-plugin-for-developers/2130256) | [CurtisOrNot](https://devforum.roblox.com/u/curtisornot) | This plugin allows you to save and teleport your studio camera so you don't have to fly to one location over and over again! | Free! | - |
+| [Studio Clock](https://devforum.roblox.com/t/studio-clock-the-most-innovative-plugin-on-the-roblox-platform/2503264/) | [Throwawayfour7x4](https://devforum.roblox.com/u/Throwawayfour7x4) |  A plugin that adds a widget to your studio that displays the current time in a 12 hour format, and how long you’ve been working in your current session. | Free! | - |
+| [Fluency Icon Library](https://devforum.roblox.com/t/fluency-icon-library-smooth-outline-icons-2k-icons/2038503) | [blve_hxrizon](https://devforum.roblox.com/u/blve_hxrizon) | An icon library plugin for Microsoft's Fluent Icons. | Free! | Restart studio after installing this plugin. |
+| [Roact Visualizer](https://devforum.roblox.com/t/roact-visualizer-develop-roact-components-in-real-time/1388899) | [pa00](https://devforum.roblox.com/u/pa00) | Preview Roact tree in real-time. | Free! | grab this if you are certified roact user lol |
 
 <!--
 If you are adding new plugin to the list, paste this under the list and change it accordingly:
@@ -138,6 +145,13 @@ If the plugin is paid, consider adding `![](/assets/robux_small.png)` (without t
 | [Rojo](https://rojo.space) | [The Rojo Team](https://github.com/rojo-rbx) | Rojo is a project management tool designed to get professional resources in the hands of Roblox developers. |
 | [rbxfpsunlocker](https://github.com/axstin/rbxfpsunlocker) | [axstin](https://github.com/axstin/rbxfpsunlocker) | FPS unlocker for Roblox (both Client and Studio). Can be used to fix weird stuff in your game while the FPS is unlocked. <sup>ahem, experience</sup> |
 | [Grapejuice](https://devforum.roblox.com/t/grapejuice-easily-run-roblox-on-linux/262949) | Brinker7 ([DevForum](https://devforum.roblox.com/u/Brinker7), [GitLab](https://gitlab.com/brinkervii/)) | Easily run Roblox Player and Roblox Studio on Linux. <br />_Note: This is not officially supported by Roblox, so use at your own risk._ |
+| [Script Assets](https://devforum.roblox.com/t/script-assets-preview-all-assets-in-a-script-for-roblox-studio-vs-code/1541277) | [catgirlin_space](https://devforum.roblox.com/u/catgirlin_space) | Preview all assets in a script for Roblox Studio & VS Code |
+
+
+<!--
+If you are adding a tool to the list, paste this under the list and change it accordingly:
+| [Tool name](paste devforum link here) | [Author](paste devforum url here) | desc |
+-->
 
 ## Honorable Mentions
 
@@ -153,6 +167,7 @@ A list of resources that doesn't fit anywhere.
 - [ZapSplat](https://zapsplat.com) - This website contains WHOPPING 63.000 sounds that you can use for your games. By using their sound effects, **[you agree with their license](https://www.zapsplat.com/license-type/standard-license/)**.
 - [Xyianide's Hotbar & Inventory system](https://devforum.roblox.com/t/open-sourced-inventory-and-hotbar-system/1780963) - An open-sourced inventory & hotbar system. I put it here because this is not a library.
 - [Procedurally Generated Maze Algorithm](https://devforum.roblox.com/t/topic/1424054/1) - An open-sourced maze algorithm.
+- [Roblox OSS Community Projects](https://discord.gg/3QX2WTBbqr) - Open source projects created by the Roblox OSS community.
 
 ## Tutorials
 
@@ -186,12 +201,18 @@ _I expect you to have some knowledge about scripting and/or Roblox Studio in gen
 - [Saving player data to MongoDB Atlas in the cloud.](https://devforum.roblox.com/t/632977)
   > If you don't want to use DataStore as your saving method, you can read this tutorial. Since it's saved to MongoDB, you can use those data for other purposes too! For example: making a Discord bot dedicated for your game. Do note that if you have a game with large playerbase, the costs of your MongoDB database might increase.
 - [How to export Roblox rig to Blender, and import animation from Blender to Roblox](https://devforum.roblox.com/t/34729)
-- [~~CollectionService, in a nutshell~~ Tutorial on how to use CollectionService](https://devforum.roblox.com/t/668984)
+- [Tutorial on how to use CollectionService](https://devforum.roblox.com/t/668984)
   > A easy tutorial if you are confused with [CollectionService](https://developer.roblox.com/en-us/api-reference/class/CollectionService).
 - [How to make server-synced daily shops](https://devforum.roblox.com/t/632401)
 - [Typechecking on OOP across scopes](https://devforum.roblox.com/t/2216110/1)
 - [Weighed chance system](https://devforum.roblox.com/t/1373953/1)
+
+### Tips and Tricks
 - [Tips on making your game accessible](https://devforum.roblox.com/t/1375919/1)
+- [How to make your game have Replayability](https://devforum.roblox.com/t/how-to-make-your-game-have-replayability/1082534)
+- [How to make your code readable without having to write comments](https://youtu.be/Bf7vDBBOBUA)
+- [Planning a Game and Implementing Features](https://devforum.roblox.com/t/game-design-theory-planning-a-game-and-implementing-features/62838/)
+- [Psychology of Feedback Loops and How to Make Them!](https://devforum.roblox.com/t/game-design-theory-psychology-of-feedback-loops-and-how-to-make-them/63140)
 
 ## Contributing
 
