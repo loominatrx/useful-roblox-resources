@@ -64,6 +64,7 @@ This list contains **safe resources** that you can use for your games, so you do
 | [Real Sun Path](https://devforum.roblox.com/t/real-sun-path-realistic-sun-movement-and-longershorter-days/2275337) | [Pulsarnova](https://devforum.roblox.com/u/Pulsarnova) | Realistic Sun Movement and Longer/Shorter Days! | no docs since it's just plug-and-play library lol | You should read the full thread, since it has useful information for you to learn. |
 | [Dynamic Weather Library](https://devforum.roblox.com/t/dynamic-weather-library-beta-10/1547614) | [anon53193547](https://devforum.roblox.com/u/anon53193547) | A highly realistic simulation of weather. | - | - |
 | [Zlib/Deflate String Compression](https://devforum.roblox.com/t/string-compression-zlibdeflate/755687/10) | [Scarious](https://devforum.roblox.com/u/Scarious) | well, a compression library... | [Docs](https://devforum.roblox.com/t/string-compression-zlibdeflate/755687#documentation-2) | Useful for data compression |
+| [Roact](https://github.com/Roblox/roact) | [Roblox](https://github.com/Roblox) | A declarative UI library for Roblox Lua inspired by [React](https://reactjs.org/). | [Docs](https://roblox.github.io/roact) | This is really powerful if you are planning to make advanced UI. |
 
 <!--
 If you are adding new library to the list, paste this under the list and change it accordingly:
@@ -206,6 +207,8 @@ _I expect you to have some knowledge about scripting and/or Roblox Studio in gen
 - [How to make server-synced daily shops](https://devforum.roblox.com/t/632401)
 - [Typechecking on OOP across scopes](https://devforum.roblox.com/t/2216110/1)
 - [Weighed chance system](https://devforum.roblox.com/t/1373953/1)
+- [How to use Roact](https://devforum.roblox.com/t/roact-the-ultimate-ui-framework/796618) ([video version](https://www.youtube.com/watch?v=pA5iDkhKqLw))
+  > For those who are confused on the official documentation, you can read this comprehensive tutorial here!
 
 ### Tips and Tricks
 - [Tips on making your game accessible](https://devforum.roblox.com/t/1375919/1)
