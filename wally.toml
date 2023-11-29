@@ -1,0 +1,21 @@
+[package]
+name = "loominatrx/pew"
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+[dependencies]
+Knit = "sleitnick/knit@1.5.3"
+
+# sleitnick/RbxUtils
+Trove = "sleitnick/trove@1.1.0"
+Signal = "sleitnick/signal@2.0.1"
+EnumList = "sleitnick/enum-list@2.1.0"
+TableUtil = "sleitnick/table-util@1.2.1"
+Shake = "sleitnick/shake@0.1.7"
+
+# 2D engine I used
+Nature2D = "jaipack17/nature2d@0.7.1"
+
+# UI lib for HUD and other stuff
+Roact = "roblox/roact@1.4.4"
