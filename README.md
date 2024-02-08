@@ -65,6 +65,10 @@ This list contains **safe resources** that you can use for your games, so you do
 | [Dynamic Weather Library](https://devforum.roblox.com/t/dynamic-weather-library-beta-10/1547614) | [anon53193547](https://devforum.roblox.com/u/anon53193547) | A highly realistic simulation of weather. | - | - |
 | [Zlib/Deflate String Compression](https://devforum.roblox.com/t/string-compression-zlibdeflate/755687/10) | [Scarious](https://devforum.roblox.com/u/Scarious) | well, a compression library... | [Docs](https://devforum.roblox.com/t/string-compression-zlibdeflate/755687#documentation-2) | Useful for data compression |
 | [Roact](https://github.com/Roblox/roact) | [Roblox](https://github.com/Roblox) | A declarative UI library for Roblox Lua inspired by [React](https://reactjs.org/). | [Docs](https://roblox.github.io/roact) | This is really powerful if you are planning to make advanced UI. |
+ desc | docs link | notes |
+| Cmdr ([GitHub repo](https://github.com/evaera/Cmdr), [DevForum thread](https://devforum.roblox.com/t/cmdr-a-fully-extensible-and-type-safe-command-console-for-roblox-developers/182815)) | evaera ([DevForum](https://devforum.roblox.com/u/evaera), [GitHub](https://github.com/evaera)) | A fully extensible and type safe command console for Roblox Developers | [Docs](https://eryn.io/Cmdr/) | Versatile library for debugging. |
+| Warp ([GitHub repo](https://github.com/imezx/warp), [DevForum thread](https://devforum.roblox.com/t/warp-very-fast-powerful-networking-library/2779813)) | Eternity_Devs ([DevForum](https://devforum.roblox.com/u/Eternity_Devs), [GitHub](https://github.com/imezx)) | Blazingly fast and powerful networking library | [Docs](https://imezx.github.io/Warp/) | - |
+
 
 <!--
 If you are adding new library to the list, paste this under the list and change it accordingly:
@@ -125,6 +129,9 @@ I decided to make dedicated building plugins section as there are many building 
 | [Building Tools by F3X](https://www.roblox.com/library/144950355/) | [GigsD4X](https://www.roblox.com/users/484140/profile/) | A set of wonderfully simple and powerful in-game building tools, designed and built by the F3X team. | Free! | Definetly recommend you to use this plugin due to the features that it has to offer. |
 | [QuickRoad](https://devforum.roblox.com/t/2024127/1) | [stravant](https://devforum.roblox.com/u/stravant) | A fully customizable road generator plugin, basically. | Free! | Supports arbitrary shapes too! |
 | [Hide Water](https://devforum.roblox.com/t/2209977) | [PoppyandNeivaarecute](https://devforum.roblox.com/u/PoppyandNeivaarecute) | This plugin allows you to toggle the visibility of terrain water. | Free! | - |
+| Axis Indicator ([GitHub repo](https://github.com/DonKingFrog/Axis-Indicator), [DevForum thread](https://devforum.roblox.com/t/axis-indicator-a-new-better-selector-for-your-developing-needs/2809793)) | DonKingFrog ([DevForum](https://devforum.roblox.com/u/DonKingFrog), [GitHub](https://github.com/DonKingFrog)) | Better selector inspired by Blender, a 3D modeling software. | Free! | Sleek UI, check it out |
+
+
 
 <!--
 If you are adding new plugin to the list, paste this under the list and change it accordingly:
@@ -169,6 +176,8 @@ A list of resources that doesn't fit anywhere.
 - [Xyianide's Hotbar & Inventory system](https://devforum.roblox.com/t/open-sourced-inventory-and-hotbar-system/1780963) - An open-sourced inventory & hotbar system. I put it here because this is not a library.
 - [Procedurally Generated Maze Algorithm](https://devforum.roblox.com/t/topic/1424054/1) - An open-sourced maze algorithm.
 - [Roblox OSS Community Projects](https://discord.gg/3QX2WTBbqr) - Open source projects created by the Roblox OSS community.
+- [Voxelized Smoke](https://devforum.roblox.com/t/voxelized-smoke/2627924) - CS2-alike smoke.
+- [Roblox's Code Samples](https://create.roblox.com/docs/samples)
 
 ## Tutorials
 
