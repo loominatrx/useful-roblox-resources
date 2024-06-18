@@ -94,19 +94,19 @@ A list of plugins that you can use to make your life easier than ever!
 
 | Plugin | Creator | Description | Price⠀⠀ | Notes |
 |:----|:----|:----|:----|:----|
-| [Atmos](https://devforum.roblox.com/t/443339) | Elttob ([DevForum](https://devforum.roblox.com/u/elttob), [GitHub](https://github.com/elttob)) | Provides you professional skyboxes and lighting that you can use in your game. | ![](/assets/robux_small.png) 150 | - |
-| [InCommand](https://devforum.roblox.com/t/558996) | boatbomber ([DevForum](https://devforum.roblox.com/u/boatbomber), [GitHub](https://github.com/boatbomber)), Elttob ([DevForum](https://devforum.roblox.com/u/elttob), [GitHub](https://github.com/elttob)) | Versatile, adaptable command bar replacement, designed with power users in mind. | ![](/assets/robux_small.png) 125 | - |
-| [Reclass](https://devforum.roblox.com/t/402382) | Elttob ([DevForum](https://devforum.roblox.com/u/elttob), [GitHub](https://github.com/elttob)) | Easily convert your Instance into different class without a hassle. | Free! | I'd recommend you to check this one, it's really useful and free! |
-| [Tool Grip Editor](https://create.roblox.com/marketplace/asset/174577307/Tool-Grip-Editor) | MaximumADHD ([DevForum](https://devforum.roblox.com/u/CloneTrooper1019), [GitHub](https://github.com/MaximumADHD)) | A plugin which makes it much easier to edit the grip of a Tool! | ![](/assets/robux_small.png) 100 | Although you can [build the plugin](https://github.com/MaximumADHD/Roblox-Plugins/tree/main/ToolGripEditor) for free, please consider buying the plugin to show some support to the creator! |
+| [Atmos](https://devforum.roblox.com/t/443339) | Elttob ([DevForum](https://devforum.roblox.com/u/elttob), [GitHub](https://github.com/elttob)) | Provides you professional skyboxes and lighting that you can use in your game. | $29.99 | - |
+| [InCommand](https://devforum.roblox.com/t/558996) | boatbomber ([DevForum](https://devforum.roblox.com/u/boatbomber), [GitHub](https://github.com/boatbomber)), Elttob ([DevForum](https://devforum.roblox.com/u/elttob), [GitHub](https://github.com/elttob)) | Versatile, adaptable command bar replacement, designed with power users in mind. | $29.99 | - |
+| [Reclass](https://devforum.roblox.com/t/402382) | Elttob ([DevForum](https://devforum.roblox.com/u/elttob), [GitHub](https://github.com/elttob)) | Easily convert your Instance into different class without a hassle. | $14.99 | - |
+| [Tool Grip Editor](https://create.roblox.com/marketplace/asset/174577307/Tool-Grip-Editor) | MaximumADHD ([DevForum](https://devforum.roblox.com/u/CloneTrooper1019), [GitHub](https://github.com/MaximumADHD)) | A plugin which makes it much easier to edit the grip of a Tool! | Free! | - |
 | [AutoScale](https://devforum.roblox.com/t/217704) | ZacBytes ([DevForum](https://devforum.roblox.com/u/ZacBytes), [GitHub](https://github.com/ZacBytes)) | This plugin can convert a UI element’s size/position to Scale or Offset, and it has auto scaling feature. | Free! | There is a pro version of this plugin that you can also check it out [here](https://devforum.roblox.com/t/601773). |
-| [DataStore Editor](https://devforum.roblox.com/t/716915) | sleitnick ([DevForum](https://devforum.roblox.com/u/sleitnick), [GitHub](https://github.com/sleitnick)) | This plugin lets you view and edit data in Roblox DataStores (normal and ordered). Numbers, strings, tables, etc. | ![](/assets/robux_small.png) 300 | Although it's expensive, this plugin is worth the price! |
-| [Free DataStore Editor](https://devforum.roblox.com/t/894063) | Xsticcy ([DevForum](https://devforum.roblox.com/u/Xsticcy), [GitHub](https://github.com/xsticcydev)) | A free alternative to sleitnick's DataStore Editor for those who can't afford it! | Free! | Honestly this plugin isn't that bad at all, but sleitnick's DataStore Editor is still better than this imo. |
+| [DataStore Editor](https://devforum.roblox.com/t/716915) | sleitnick ([DevForum](https://devforum.roblox.com/u/sleitnick), [GitHub](https://github.com/sleitnick)) | This plugin lets you view and edit data in Roblox DataStores (normal and ordered). Numbers, strings, tables, etc. | $9.99 | Although it's quite pricey, this plugin is worth the price! |
+| [Free DataStore Editor](https://devforum.roblox.com/t/894063) | Xsticcy ([DevForum](https://devforum.roblox.com/u/Xsticcy), [GitHub](https://github.com/xsticcydev)) | A free alternative to sleitnick's DataStore Editor for those who can't afford it! | Free! | If you are broke enough to buy sleitnick's editor, this is a great alternative. |
 | [RoRender](https://devforum.roblox.com/t/minimap-render-rorenderv2/965827/) | reteach ([DevForum](https://devforum.roblox.com/u/reteach), [GitHub](https://github.com/AJSteinhauser)) | Minimap renderer. | Free! | Might be very demanding depending on how big & detailed your map is, and how powerful your PC is. Use with caution. |
 | [Interface Tools](https://devforum.roblox.com/t/404423) | [fivefactor](https://devforum.roblox.com/u/fivefactor) | The plugin helps expedite user interface design by providing easy access to hundreds of icons, patterns, gradients, and button styles. | ![](/assets/robux_small.png) 1000 | not worth the price, but I'm not gonna stop you from buying it. |
-| Tag Editor ([DevForum thread](https://devforum.roblox.com/t/101465), [GitHub repo](https://github.com/tiffany352/Roblox-Tag-Editor/)) | [Sweetheartichoke](https://devforum.roblox.com/u/Sweetheartichoke) | This plugin allows you to create tags, and then assign them to objects in your game. You can also visualize and view a list of what objects have a given tag, and so on. | Free! | You should read the DevForum thread to know the key feature of this plugin (and also a bit of explanation on using [CollectionService](https://developer.roblox.com/en-us/api-reference/class/CollectionService), since the plugin relies on it). |
+| Tag Editor ([DevForum thread](https://devforum.roblox.com/t/101465), [GitHub repo](https://github.com/tiffany352/Roblox-Tag-Editor/)) | [Sweetheartichoke](https://devforum.roblox.com/u/Sweetheartichoke) | This plugin allows you to create tags, and then assign them to objects in your game. You can also visualize and view a list of what objects have a given tag, and so on. | Free! | Roblox released [their own implementation of Tag Editor](https://devforum.roblox.com/t/tag-editor-plugin-for-studio/2055202) integrated in Studio. It has the same functionallity as this plugin does, I'd recommend you to switch from this plugin to Roblox's built-in plugin. |
 | [Lucide Icon Picker](https://devforum.roblox.com/t/lucide-icon-picker-%E2%80%94-beautiful-open-source-and-free-icons-for-your-work/1507946/) | [7kayoh](https://devforum.roblox.com/u/7kayoh) | An icon picker for [Lucide Icons](https://github.com/lucide-icons/lucide). | Free! | Not all icons are available, as this plugin is still in alpha stage. Also, the Roblox library version is not working, [get it here instead](https://gitlab.com/koterahq/luciderblx/plugin/-/releases). If you want more icons, build the plugin yourself. |
 | [Dialogue Editor](https://devforum.roblox.com/t/advanced-dialogue-system-node-editor/1526346) | [Sol_ttu](https://devforum.roblox.com/u/Sol_ttu) | An advanced dialogue editor with a cool node editor, so you can make dialogues without killing your brain with scripting. | Free! | Really, you should check this out when creating RPG game. It's easy to use! |
-| [Moon Animator 2](https://www.roblox.com/library/4725618216/Moon-Animator-2) | [xsixx](https://www.roblox.com/users/9543399/profile/) | An advanced animation editor with robust and versatile features | ![](/assets/robux_small.png) 1,700 | VERY EXPENSIVE, yet VERY USEFUL PLUGIN if you are attempting to make video animations inside Roblox. |
+| [Moon Animator 2](https://www.roblox.com/library/4725618216/Moon-Animator-2) | [xsixx](https://www.roblox.com/users/9543399/profile/) | An advanced animation editor with robust and versatile features | $29.99 | VERY EXPENSIVE, yet VERY USEFUL PLUGIN if you are attempting to make video animations inside Roblox. |
 | [Studio Fast Travel](https://devforum.roblox.com/t/studio-fast-travel-free-plugin-for-developers/2130256) | [CurtisOrNot](https://devforum.roblox.com/u/curtisornot) | This plugin allows you to save and teleport your studio camera so you don't have to fly to one location over and over again! | Free! | - |
 | [Studio Clock](https://devforum.roblox.com/t/studio-clock-the-most-innovative-plugin-on-the-roblox-platform/2503264/) | [Throwawayfour7x4](https://devforum.roblox.com/u/Throwawayfour7x4) |  A plugin that adds a widget to your studio that displays the current time in a 12 hour format, and how long you’ve been working in your current session. | Free! | - |
 | [Fluency Icon Library](https://devforum.roblox.com/t/fluency-icon-library-smooth-outline-icons-2k-icons/2038503) | [blve_hxrizon](https://devforum.roblox.com/u/blve_hxrizon) | An icon library plugin for Microsoft's Fluent Icons. | Free! | Restart studio after installing this plugin. |
@@ -114,8 +114,10 @@ A list of plugins that you can use to make your life easier than ever!
 | [CornerPro](https://devforum.roblox.com/t/cornerpro-a-plugin-that-you-may-have-never-seen/2638699) | [Noxhazel](https://devforum.roblox.com/u/NoxhazeI) | A plugin that allows you to set corner size on specific corner. | Free! | - |
 | [NodeGraph](https://devforum.roblox.com/t/nodegraphv20-create-connected-networks-of-nodes-easily/2865840) | [tyridge77](https://devforum.roblox.com/u/tyridge77) | Create 3D nodes and connect them together to form networks or paths. | Free! | Could be useful for custom NPC pathfinding |
 | [Dropper](https://devforum.roblox.com/t/dropper-the-external-rbxm-inserter/2389378) | [metatablecatmaid](https://devforum.roblox.com/u/metatablecatmaid) | External RBXM inserter | Free! | Roblox-made models cannot be imported using this plugin. However, user-made models can! |
-| [Swap](https://devforum.roblox.com/t/swap-supercharged-class-converter-and-more/2713629) | [defaultyboii1324](https://devforum.roblox.com/u/deafaultyboii1324) | Supercharged class converter and more | Free! | [See some key differences between this plugin and Reclass](https://devforum.roblox.com/t/swap-supercharged-class-converter-and-more/2713629/3?u=loominatrx) |
+| [Swap](https://devforum.roblox.com/t/swap-supercharged-class-converter-and-more/2713629) | [defaultyboii1324](https://devforum.roblox.com/u/deafaultyboii1324) | Supercharged class converter and more | Free! | [See some key differences between this plugin and Reclass](https://devforum.roblox.com/t/swap-supercharged-class-converter-and-more/2713629/3) |
 | [GUI Copilot](https://devforum.roblox.com/t/gui-copilot-make-quick-edits-to-your-guis/2888904) | [defaultyboii1324](https://devforum.roblox.com/u/deafaultyboii1324) | Make quick edits to your GUIs | Free! | great plugin holy shit |
+| [UI Labs](https://ui-labs-roblox.github.io/ui-labs-docs/) | [PepeElToro41](https://github.com/PepeElToro41) | A storybook visualizer for Roblox used to test user interfaces. | Free! | Similar to Roact Visualizer, but this plugin is compatible with almost any GUI framework. |
+
 
 <!--
 If you are adding new plugin to the list, paste this under the list and change it accordingly:
@@ -124,8 +126,6 @@ If you are adding new plugin to the list, paste this under the list and change i
 If the plugin also has GitHub repository, paste this one instead
 | Plugin name ([GitHub repo](paste github url here), [DevForum thread](paste devforum url here)) | Author ([DevForum](paste devforum url here), [GitHub](paste github url here)) | desc | price | notes |
 
-If the plugin is paid, consider adding `![](/assets/robux_small.png)` (without the backtick) before the prince number, so it would be:
-![](/assets/robux_small.png) 800
 -->
 
 ### Building Plugins
@@ -161,7 +161,6 @@ If the plugin is paid, consider adding `![](/assets/robux_small.png)` (without t
 | OpenCloudTools ([DevForum thread](https://devforum.roblox.com/t/1818516), [GitHub repo](https://github.com/jlwitthuhn/OpenCloudTools/)) | Skrateboard ([DevForum](https://devforum.roblox.com/u/Skrateboard), [GitHub](https://github.com/jlwitthuhn)) | A desktop application for Windows and MacOS (if you are on Linux, you have to compile it yourself, unfortunately) that allows you to interact with Roblox’s Open Cloud API. This means you can edit DataStores and publish contents with MessagingService outside of Roblox environment! |
 | PixelFix ([DevForum thread](https://devforum.roblox.com/t/pixelfix-remove-the-black-edges-on-scaled-images/201802), [GitHub repo](https://github.com/Corecii/Transparent-Pixel-Fix))| Corecii ([DevForum](https://devforum.roblox.com/u/Corecii), [GitHub](https://github.com/Corecii)) | Remove the black edges on scaled images, very useful if your images (especially icons) has black edges after uploading it on Roblox. |
 | [Rojo](https://rojo.space) | [The Rojo Team](https://github.com/rojo-rbx) | Rojo is a project management tool designed to get professional resources in the hands of Roblox developers. |
-| [rbxfpsunlocker](https://github.com/axstin/rbxfpsunlocker) | [axstin](https://github.com/axstin/rbxfpsunlocker) | FPS unlocker for Roblox (both Client and Studio). Can be used to fix weird stuff in your game while the FPS is unlocked. <sup>ahem, experience</sup> |
 | [Script Assets](https://devforum.roblox.com/t/script-assets-preview-all-assets-in-a-script-for-roblox-studio-vs-code/1541277) | [catgirlin_space](https://devforum.roblox.com/u/catgirlin_space) | Preview all assets in a script for Roblox Studio & VS Code |
 
 
@@ -174,18 +173,30 @@ If you are adding a tool to the list, paste this under the list and change it ac
 
 A list of resources that doesn't fit anywhere.
 
-- [New Official Roblox Documentation](https://create.roblox.com/dashboard) - Incredibly useful and contains many guides
-- [Official Luau Documentation](https://luau-lang.org/) - Luau documentation which contains syntax and style guides
-- [Kenney.NL Assets](https://www.kenney.nl/assets) - A list of REALLY GOOD resources (sound effects, low poly models, etc.)
-- [Figma](https://figma.com) - A collaborative UI designing tool. Think it as Adobe XD or Sketch, but it's free.
-- [Penpot](https://penpot.app) - Figma, but it's [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software).
-- [Fluent Icons Explorer](https://fluenticons.co) - Lists of Microsoft's open source icons. Please credit them if you are using them in your game, as this is required to comply with [their repo license](https://github.com/microsoft/fluentui-system-icons/blob/master/LICENSE).
-- [Material Design Icons](https://fonts.google.com/icons) - Lists of Google's open source icons. Please credit them if you are using them in your game, as this is required to comply with [their repo license](https://github.com/google/material-design-icons/blob/master/LICENSE).
-- [ZapSplat](https://zapsplat.com) - This website contains WHOPPING 63.000 sounds that you can use for your games. By using their sound effects, **[you agree with their license](https://www.zapsplat.com/license-type/standard-license/)**.
-- [Xyianide's Hotbar & Inventory system](https://devforum.roblox.com/t/open-sourced-inventory-and-hotbar-system/1780963) - An open-sourced inventory & hotbar system. I put it here because this is not a library.
-- [Procedurally Generated Maze Algorithm](https://devforum.roblox.com/t/topic/1424054/1) - An open-sourced maze algorithm.
-- [Roblox OSS Community Projects](https://discord.gg/3QX2WTBbqr) - Open source projects created by the Roblox OSS community.
-- [Voxelized Smoke](https://devforum.roblox.com/t/voxelized-smoke/2627924) - CS2-alike smoke.
+- [New Official Roblox Documentation](https://create.roblox.com/dashboard)
+  > Incredibly useful and contains many guides
+- [Official Luau Documentation](https://luau-lang.org/)
+  > Luau documentation which contains syntax and style guides
+- [Kenney.NL Assets](https://www.kenney.nl/assets)
+  > A list of REALLY GOOD resources (sound effects, low poly models, etc.)
+- [Figma](https://figma.com)
+  >  A collaborative UI designing tool. Think it as Adobe XD or Sketch, but it's free.
+- [Penpot](https://penpot.app)
+  > Figma, but it's [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software).
+- [Fluent Icons Explorer](https://fluenticons.co)
+  > Lists of Microsoft's open source icons. Please credit them if you are using them in your game, as this is required to comply with [their repo license](https://github.com/microsoft/fluentui-system-icons/blob/master/LICENSE).
+- [Material Design Icons](https://fonts.google.com/icons)
+  > Lists of Google's open source icons. Please credit them if you are using them in your game, as this is required to comply with [their repo license](https://github.com/google/material-design-icons/blob/master/LICENSE).
+- [ZapSplat](https://zapsplat.com)
+  > This website contains WHOPPING 63.000 sounds that you can use for your games. By using their sound effects, **[you agree with their license](https://www.zapsplat.com/license-type/standard-license/)**.
+- [Xyianide's Hotbar & Inventory system](https://devforum.roblox.com/t/open-sourced-inventory-and-hotbar-system/1780963)
+  > An open-sourced inventory & hotbar system. I put it here because this is not a library.
+- [Procedurally Generated Maze Algorithm](https://devforum.roblox.com/t/topic/1424054/1)
+  > An open-sourced maze algorithm.
+- [Roblox OSS Community Projects](https://discord.gg/3QX2WTBbqr)
+  > Open source projects created by the Roblox OSS community.
+- [Voxelized Smoke](https://devforum.roblox.com/t/voxelized-smoke/2627924)
+  > CS2-alike smoke.
 - [Roblox's Code Samples](https://create.roblox.com/docs/samples)
 - [Minimalist performance monitor GUI](https://devforum.roblox.com/t/minimalist-performance-gui/2865918)
 - [Hidden Glass Distortion Effect with Real-time Reflections Tutorial](https://devforum.roblox.com/t/topic/2338789/1)
@@ -233,8 +244,11 @@ _I expect you to have some knowledge about scripting and/or Roblox Studio in gen
 - [How to make server-synced daily shops](https://devforum.roblox.com/t/632401)
 - [Typechecking on OOP across scopes](https://devforum.roblox.com/t/2216110/1)
 - [Weighed chance system](https://devforum.roblox.com/t/1373953/1)
-- [How to use Roact](https://devforum.roblox.com/t/roact-the-ultimate-ui-framework/796618) ([video version](https://www.youtube.com/watch?v=pA5iDkhKqLw))
-  > For those who are confused on the official documentation, you can read this comprehensive tutorial here!
+- ~~[How to use Roact](https://devforum.roblox.com/t/roact-the-ultimate-ui-framework/796618) ([video version](https://www.youtube.com/watch?v=pA5iDkhKqLw))~~
+  > ~~For those who are confused on the official documentation, you can read this comprehensive tutorial here!~~
+  > NOTE: Roact is no longer maintained, use [react-lua](https://github.com/jsdotlua/react-lua) instead.
+- [How to: React + Roblox](https://devforum.roblox.com/t/how-to-react-roblox/2964543)
+  > A React Roblox tutorial created by official Roblox Staff.
 
 ### Tips and Tricks
 - [Tips on making your game accessible](https://devforum.roblox.com/t/1375919/1)
