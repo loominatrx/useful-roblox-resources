@@ -166,6 +166,7 @@ If the plugin is paid, consider adding `![](/assets/robux_small.png)` (without t
 | PixelFix ([DevForum thread](https://devforum.roblox.com/t/pixelfix-remove-the-black-edges-on-scaled-images/201802), [GitHub repo](https://github.com/Corecii/Transparent-Pixel-Fix))| Corecii ([DevForum](https://devforum.roblox.com/u/Corecii), [GitHub](https://github.com/Corecii)) | Remove the black edges on scaled images, very useful if your images (especially icons) has black edges after uploading it on Roblox. |
 | [Rojo](https://rojo.space) | [The Rojo Team](https://github.com/rojo-rbx) | Rojo is a project management tool designed to get professional resources in the hands of Roblox developers. |
 | [Script Assets](https://devforum.roblox.com/t/script-assets-preview-all-assets-in-a-script-for-roblox-studio-vs-code/1541277) | [catgirlin_space](https://devforum.roblox.com/u/catgirlin_space) | Preview all assets in a script for Roblox Studio & VS Code |
+| [Roblox GUI Maker](https://robloxguimaker.dev/) | Roblox GUI Maker | A free AI-assisted web tool for drafting Roblox Studio GUI layouts, previewing Roblox-style screens, and generating Lua starter code from a simple prompt. |
 
 
 <!--
