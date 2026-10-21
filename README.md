@@ -233,6 +233,7 @@ Here's the list of tutorials made for beginners.
   > Good Roblox Studio tutorial for beginners on YouTube.
 - [F3X Basics Tutorial by bigranny000](https://www.youtube.com/watch?v=O6LUmU9vtKk) (old tutorial that is still good)
 - [Getting Started with F3X](https://www.youtube.com/watch?v=3VRVS4Me5kQ)
+- [Eclipse Animator first-animation guide](https://eclipseanimator.dev/tutorials/first-animation/) - Independent, source-linked walkthrough of posing a rig, adding keyframes and previewing an animation in Roblox Studio.
 
 ### Advanced Tutorials
 
